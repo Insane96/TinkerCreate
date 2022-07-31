@@ -1,0 +1,11 @@
+{
+    "mob_id": "minecraft:vindicator",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_damage",
+            "modifier_name": "Less Damage for Vindicators",
+            "amount": -0.30,
+            "operation": "multiply_base"
+        }
+    ]
+}

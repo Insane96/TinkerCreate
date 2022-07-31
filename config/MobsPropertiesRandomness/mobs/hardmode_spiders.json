@@ -1,0 +1,19 @@
+{
+    "mob_id": "minecraft:spider",
+    "attributes": [
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "More Speed for Spiders",
+            "amount": 0.05,
+            "operation": "multiply_base"
+        }
+    ],
+    "conditions": {
+        "advancements_done": [
+            {
+                "advancements": [ "minecraft:end/kill_dragon" ],
+                "player_mode": "any"
+            }
+        ]
+    }
+}

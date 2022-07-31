@@ -1,0 +1,10 @@
+{
+    "mob_id": "minecraft:iron_golem",
+    "potion_effects": [
+        {
+            "id": "minecraft:resistance",
+            "amplifier": 1,
+            "ambient": true
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "group": "hostiles",
+    "attributes": [
+        {
+            "id": "minecraft:generic.follow_range",
+            "modifier_name": "More Sight for Hostiles",
+            "amount": 0.75,
+            "operation": "multiply_base"
+        },
+        {
+            "id": "forge:swim_speed",
+            "modifier_name": "More Swim for Hostiles",
+            "amount": 1,
+            "operation": "multiply_base"
+        }
+    ]
+}

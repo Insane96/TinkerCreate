@@ -1,0 +1,15 @@
+{
+    "mob_id": "minecraft:spider",
+    "on_hit_effects": {
+        "on_attack": [{
+            "target": "other",
+            "potion_effects": [
+                {
+                    "id": "minecraft:slowness",
+                    "amplifier": 1,
+                    "duration": 6
+                }
+            ]
+        }]
+    }
+}
