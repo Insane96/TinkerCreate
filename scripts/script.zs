@@ -21,11 +21,13 @@ var itemsToRemoveAndHide = [
     <item:minecraft:diamond_helmet>, <item:minecraft:diamond_chestplate>, <item:minecraft:diamond_leggings>, <item:minecraft:diamond_boots>, 
     <item:minecraft:netherite_helmet>, <item:minecraft:netherite_chestplate>, <item:minecraft:netherite_leggings>, <item:minecraft:netherite_boots>, <item:minecraft:flint_and_steel>, <item:minecraft:shears>, 
     <item:tconstruct:efln_ball>, 
-    <item:savage_and_ravage:cleaver_of_beheading>, <item:savage_and_ravage:griefer_helmet>, <item:savage_and_ravage:griefer_chestplate>, <item:savage_and_ravage:griefer_leggings>, <item:savage_and_ravage:griefer_boots>, <item:savage_and_ravage:mask_of_dishonesty>] as ItemDefinition[];
+    <item:savage_and_ravage:cleaver_of_beheading>, <item:savage_and_ravage:griefer_helmet>, <item:savage_and_ravage:griefer_chestplate>, <item:savage_and_ravage:griefer_leggings>, <item:savage_and_ravage:griefer_boots>, <item:savage_and_ravage:mask_of_dishonesty>,
+    <item:incubation:fried_egg>,
+    <item:farmersdelight:flint_knife>, <item:farmersdelight:iron_knife>, <item:farmersdelight:golden_knife>, <item:farmersdelight:diamond_knife>, <item:farmersdelight:netherite_knife>, <item:farmersdelight:wheat_dough>] as ItemDefinition[];
 
 var itemsToRemove = [] as ItemDefinition[];
 
-var itemsToHide = [<item:minecraft:trident>] as ItemDefinition[];
+var itemsToHide = [/*<item:minecraft:trident>*/] as ItemDefinition[];
 
 /*for tag in tagsToRemoveAndHide {
     removeAndHideTag(tag);
