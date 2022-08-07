@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.curseclient": true,
+        "**/*cache.json": true,
+        "**/downloads": true,
+        "**/minecraftinstance.json": true,
+        "**/mods": true,
+        "**/options.txt": true,
+        "**/realms_*": true,
+        "**/resourcepacks": true,
+        "**/saves": true,
+        "**/screenshots": true,
+        "**/servers.*": true,
+        "**/*.log.gz": true
+    }
+}
