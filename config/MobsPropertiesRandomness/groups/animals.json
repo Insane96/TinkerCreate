@@ -1,0 +1,8 @@
+{
+    "mobs": [
+        "minecraft:pig",
+        "minecraft:chicken",
+        "minecraft:sheep",
+        "minecraft:cow"
+    ]
+}

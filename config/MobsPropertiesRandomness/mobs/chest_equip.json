@@ -1,0 +1,257 @@
+{
+    "group": "hostiles_with_equip",
+    "equipment": {
+        "chest": {
+            "override": true,
+            "chance": {
+                "value": 0.25,
+                "difficulty_modifier": {
+                    "operation": "add",
+                    "easy": -0.15,
+                    "normal": -0.075
+                },
+                "time_existed_modifier": {
+                    "bonus_percentage": 0.125,
+                    "seconds": 7200,
+                    "max_bonus_percentage": 1
+                }
+            },
+            "items": [
+                {
+                    "id": "tconstruct:travelers_chestplate",
+                    "weight": 2,
+                    "drop_chance": -1,
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:reach",
+                            "chance": 1
+                        },
+                        {
+                            "id": "tconstruct:strength",
+                            "chance": 0.2
+                        },
+                        {
+                            "id": "tconstruct:strength",
+                            "chance": 0.2
+                        },
+                        {
+                            "id": "tconstruct:ricochet",
+                            "chance": 0.30
+                        },
+                        {
+                            "id": "tconstruct:ricochet",
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "chance": 0.30
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.3
+                        },
+                        {
+                            "id": "tconstruct:protection",
+                            "chance": 0.3
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:revitalizing",
+                            "chance": 0.15
+                        }
+                    ]
+                },
+                {
+                    "id": "tconstruct:plate_chestplate",
+                    "weight": 1,
+                    "drop_chance": -1,
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:protection",
+                            "chance": 0.3
+                        },
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.3
+                        },
+                        {
+                            "id": "tconstruct:netherite",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:protection",
+                            "chance": 0.3
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:knockback_resistance",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:revitalizing",
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:revitalizing",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:revitalizing",
+                            "chance": 0.15
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

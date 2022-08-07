@@ -1,0 +1,11 @@
+{
+    "group": "animals",
+    "attributes": [
+        {
+            "id": "forge:swim_speed",
+            "modifier_name": "More Swim for Animals",
+            "amount": 1.2,
+            "operation": "multiply_base"
+        }
+    ]
+}

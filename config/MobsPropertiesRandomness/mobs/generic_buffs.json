@@ -10,7 +10,7 @@
         {
             "id": "forge:swim_speed",
             "modifier_name": "More Swim for Hostiles",
-            "amount": 1,
+            "amount": 1.25,
             "operation": "multiply_base"
         }
     ]
