@@ -13,7 +13,7 @@
                 "time_existed_modifier": {
                     "bonus_percentage": 0.125,
                     "seconds": 7200,
-                    "max_bonus_percentage": 1
+                    "max_bonus_percentage": 4
                 }
             },
             "items": [
