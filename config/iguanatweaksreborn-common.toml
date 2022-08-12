@@ -24,13 +24,13 @@
 		"Faster Potion Consuming" = true
 		#Makes milk faster to drink, 1 second instead of 1.6.
 		"Faster Milk Consuming" = true
-		#Makes the speed for eating food based off the hunger and saturation they provide. At 2 (hunger + saturation) the speed is vanilla, higher / lower (hunger + saturation) will lower / raise the speed. Minimum 16 ticks.
-		"Eating Speed Based Off Food Config" = false
 		#Multiplier for the time taken to eat. Only applied if 'Eating Speed Based Off Food Config' is active.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Eating Time Multiplier" = 0.13
 		#If true, eating/drinking stops when the player's hit.
 		"Stop consuming on hit" = true
+		#Makes the speed for eating food based off the hunger and saturation they provide. At 2 (hunger + saturation) the speed is vanilla, higher / lower (hunger + saturation) will lower / raise the speed. Minimum 16 ticks.
+		"Eating Speed Based Off Food Restored" = false
 
 	#Makes Health regen work differently, like in Combat Test snapshots. Can be customized. Also adds Well Fed and Injured effects.
 	[Hunger."Health Regen"]
@@ -332,7 +332,7 @@
 	"Enable Stats" = true
 	#Player will deal no knockback if attacking with a non-weapon or spamming
 	"Enable No Knockback" = false
-	#Various changes to Shields
+	#Various changes to Shields. Disabled if Shields+ is installed.
 	"Enable Shields" = true
 
 	#Various changes from weapons damage to armor reduction
@@ -366,7 +366,7 @@
 		#If true the player will deal no knockback when not using a tool / weapon
 		"No Item No Knockback" = true
 
-	#Various changes to Shields
+	#Various changes to Shields. Disabled if Shields+ is installed.
 	[Combat.Shields]
 		#In vanilla when you start blocking with a shield, there's a 0.25 seconds window where you are still not blocking. If true this windup time is removed.
 		"Remove Shield Windup" = true
@@ -403,6 +403,8 @@
 		"Material On Slowdown" = ["amethyst,0.1", "bamboo_sapling,0", "bamboo,0.1", "barrier,0", "buildable_glass,0", "cactus,0", "cake,0", "clay,0.15", "cloth_decoration,0", "decoration,0", "dirt,0.1", "egg,0", "explosive,0", "glass,0", "grass,0.1", "heavy_metal,0", "ice_solid,0.5", "ice,0.35", "leaves,0.15", "metal,0", "moss,0.15", "nether_wood,0", "piston,0", "plant,0", "powder_snow,0", "replaceable_fireproof_plant,0", "replaceable_plant,0", "replaceable_water_plant,0", "sand,0.15", "sculk,0", "shulker_shell,0", "snow,0.2", "sponge,0", "stone,0", "top_snow,0", "vegetable,0", "water_plant,0", "web,0", "wood,0", "wool,0.2"]
 		#Slowdown percentage when walking in certain materials. Material names are fixed and cannot be changed. Materials per block list here: https://docs.google.com/spreadsheets/d/1XZ2iTC4nqit_GxvKurRp8NpW3tNaeaZsvfv4EGPoQxw/edit?usp=sharing
 		"Material In Slowdown" = ["amethyst,0.1", "bamboo_sapling,0.15", "bamboo,0", "barrier,0", "buildable_glass,0", "cactus,0", "cake,0", "clay,0", "cloth_decoration,0", "decoration,0", "dirt,0", "egg,0", "explosive,0", "glass,0", "grass,0", "heavy_metal,0", "ice_solid,0", "ice,0", "leaves,0", "metal,0", "moss,0", "nether_wood,0", "piston,0", "plant,0.15", "powder_snow,0", "replaceable_fireproof_plant,0.1", "replaceable_plant,0.1", "replaceable_water_plant,0.1", "sand,0", "sculk,0", "shulker_shell,0", "snow,0", "sponge,0", "stone,0", "top_snow,0.1", "vegetable,0", "water_plant,0.1", "web,0", "wood,0", "wool,0"]
+		#List of blocks and percentage slowdown when on that block/block tag. This overrides slowdown given by Material On Slowdown
+		"Custom Terrain slowdown" = ["minecraft:dirt_path,-0.15", "#minecraft:stone_bricks,0.15"]
 
 	#Player's slowed down when walking backwards.
 	[Movement."Backwards slowdown"]
@@ -435,10 +437,10 @@
 ["Sleep & Respawn"]
 	#Prevents the player from sleeping if has not enough Hunger and gives him effects on wake up
 	"Enable Sleeping Effects" = true
-	#Makes sleeping impossible while begin able to set (or not) the spawn point
-	"Enable Prevent Sleeping" = false
 	#Prevents sleeping if the player is not tired. Tiredness is gained by gaining exhaustion. Allows you to sleep during daytime if too tired
 	"Enable Tiredness" = true
+	#Makes sleeping impossible or possible during day
+	"Enable Sleeping" = true
 
 	#Prevents the player from sleeping if has not enough Hunger and gives him effects on wake up
 	["Sleep & Respawn"."Sleeping Effects"]
@@ -451,11 +453,6 @@
 		"Effects on Wake Up" = ["minecraft:slowness,400,1", "minecraft:regeneration,200,1", "minecraft:weakness,300,1", "minecraft:mining_fatigue,300,1"]
 		#If the player's hunger bar is below 'Hunger Depleted on Wake Up' he can't sleep.
 		"No Sleep If Hungry" = true
-
-	#Makes sleeping impossible while begin able to set (or not) the spawn point
-	["Sleep & Respawn"."Prevent Sleeping"]
-		#If set to true the player spawn point will not change when the player cannot sleep. Has no effect if the player can sleep.
-		"Disable Bed Spawn" = false
 
 	#Prevents sleeping if the player is not tired. Tiredness is gained by gaining exhaustion. Allows you to sleep during daytime if too tired
 	["Sleep & Respawn".Tiredness]
@@ -473,6 +470,15 @@
 		#Every this Tiredness above 'Tiredness for effect' will add a new level of Tired.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Tiredness per level" = 20.0
+
+	#Makes sleeping impossible or possible during day
+	["Sleep & Respawn".Sleeping]
+		#If set to true the player will not be able to sleep.
+		"Disable Sleeping" = false
+		#If set to true the player spawn point will not change when the player cannot sleep. Has no effect if the player can sleep.
+		"Disable Bed Spawn" = false
+		#If set to true the player will be able to sleep during day time. On wake up it will be night time
+		"Allow Sleeping During Day" = true
 
 [Farming]
 	#Slower breeding, Growing, Egging and Milking
