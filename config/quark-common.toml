@@ -93,7 +93,7 @@
 	"Soul Sandstone" = true
 	Shingles = true
 	"Shear Vines" = true
-	Rope = true
+	Rope = false
 	"Oriental Palette" = true
 	"Nether Brick Fence Gate" = true
 	"More Stone Variants" = true
