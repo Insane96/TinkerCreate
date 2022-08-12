@@ -67,7 +67,7 @@
 		"Enable Injured" = true
 		#When eating you'll get healed by this percentage of (hunger + saturation) restored.
 		#Range: 0.0 ~ 128.0
-		"Food Heal Multiplier" = 0.0
+		"Food Heal Multiplier" = 0.075
 
 	#Change food's hunger and saturation given, also makes food heal you by a bit. Changing anything requires a Minecraft restart.
 	[Hunger."Food Hunger"]
