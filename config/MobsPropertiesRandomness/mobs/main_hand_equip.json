@@ -12,12 +12,52 @@
                 "time_existed_modifier": {
                     "bonus_percentage": 0.125,
                     "seconds": 7200,
-                    "max_bonus_percentage": 1
+                    "max_bonus_percentage": 4
                 }
             },
             "items": [
                 {
                     "id": "tconstruct:pickaxe",
+                    "weight": 5,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 1
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        }
+                    ]
+                },
+                {
+                    "id": "tconstruct:mattock",
+                    "weight": 4,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 1
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        }
+                    ]
+                },
+                {
+                    "id": "tconstruct:hand_axe",
                     "weight": 3,
                     "drop_chance": -1,
                     "ticon_materials": {
@@ -37,48 +77,8 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:mattock",
-                    "weight": 2,
-                    "drop_chance": -1,
-                    "ticon_materials": {
-                        "random": {
-                            "max_tier": 1
-                        }
-                    },
-                    "ticon_modifiers": [
-                        {
-                            "id": "tconstruct:diamond",
-                            "chance": 0.1
-                        },
-                        {
-                            "id": "tconstruct:emerald",
-                            "chance": 0.1
-                        }
-                    ]
-                },
-                {
-                    "id": "tconstruct:hand_axe",
-                    "weight": 1,
-                    "drop_chance": -1,
-                    "ticon_materials": {
-                        "random": {
-                            "max_tier": 1
-                        }
-                    },
-                    "ticon_modifiers": [
-                        {
-                            "id": "tconstruct:diamond",
-                            "chance": 0.1
-                        },
-                        {
-                            "id": "tconstruct:emerald",
-                            "chance": 0.1
-                        }
-                    ]
-                },
-                {
                     "id": "tconstruct:kama",
-                    "weight": 1,
+                    "weight": 4,
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
@@ -98,7 +98,7 @@
                 },
                 {
                     "id": "tconstruct:pickaxe",
-                    "weight": 2,
+                    "weight": 3,
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
@@ -206,7 +206,7 @@
                 },
                 {
                     "id": "tconstruct:kama",
-                    "weight": 1,
+                    "weight": 2,
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
