@@ -16,7 +16,7 @@
         {
             "id": "minecraft:generic.attack_damage",
             "modifier_name": "More Damage for Hostiles",
-            "amount": 0.20,
+            "amount": 0.10,
             "operation": "multiply_base"
         }
     ],
