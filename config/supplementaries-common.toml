@@ -118,7 +118,7 @@
 		sack_penalty = true
 		#Maximum number of sacks after which the overencumbered effect will be applied. Each multiple of this number will increase the effect strength by one
 		#Range: 0 ~ 50
-		sack_increment = 2
+		sack_increment = 1
 		#How many slots should a sack have
 		#Range: 1 ~ 27
 		slots = 9
@@ -350,7 +350,7 @@
 		#Other vanilla valid ones are: player, target, red_marker, target_point, player_off_map, player_off_limits, mansion, monument, red_x, banner_white
 		#Note that ony the first parameter is required, each of the others others can me removed and will be defaulted to reasonable values
 		#example: ['minecraft:swamp_hut','2','5','7','witch hut map','0x00ff33']
-		custom_adventurer_maps = [[""]]
+		custom_adventurer_maps = [["#bettermineshafts:better_mineshafts"], ["betterdungeons:skeleton_dungeon"], ["betterdungeons:spider_dungeon"], ["betterdungeons:zombie_dungeon"]]
 		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
 		#Best kept disabled if you are adding custom adventurer maps with its config
 		random_adventurer_maps = true

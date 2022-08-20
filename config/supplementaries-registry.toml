@@ -22,7 +22,7 @@
 	crank = true
 	jar = true
 	faucet = true
-	turn_table = true
+	turn_table = false
 	spring_launcher = true
 	speaker_block = true
 	sign_post = true
@@ -54,7 +54,7 @@
 	lock_block = true
 	flax = true
 	rope = true
-	pulley_block = true
+	pulley_block = false
 	fodder = true
 	crimson_lantern = true
 	magma_cream_block = true
@@ -91,7 +91,7 @@
 	antique_ink = true
 	shulker_shell = true
 	candy = true
-	wrench = true
+	wrench = false
 	slingshot = true
 	rope_arrow = true
 	bomb = true

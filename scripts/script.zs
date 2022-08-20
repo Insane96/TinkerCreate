@@ -23,7 +23,8 @@ var itemsToRemoveAndHide = [
     <item:tconstruct:efln_ball>, 
     <item:savage_and_ravage:cleaver_of_beheading>, <item:savage_and_ravage:griefer_helmet>, <item:savage_and_ravage:griefer_chestplate>, <item:savage_and_ravage:griefer_leggings>, <item:savage_and_ravage:griefer_boots>, <item:savage_and_ravage:mask_of_dishonesty>,
     <item:incubation:fried_egg>,
-    <item:farmersdelight:flint_knife>, <item:farmersdelight:iron_knife>, <item:farmersdelight:golden_knife>, <item:farmersdelight:diamond_knife>, <item:farmersdelight:netherite_knife>, <item:farmersdelight:wheat_dough>, <item:farmersdelight:rope>] as ItemDefinition[];
+    <item:farmersdelight:flint_knife>, <item:farmersdelight:iron_knife>, <item:farmersdelight:golden_knife>, <item:farmersdelight:diamond_knife>, <item:farmersdelight:netherite_knife>, <item:farmersdelight:wheat_dough>, <item:farmersdelight:rope>,
+    <item:supplementaries:pulley_block>, <item:supplementaries:turn_table>, <item:supplementaries:bellows>, <item:supplementaries:crank>, <item:supplementaries:wrench>] as ItemDefinition[];
 
 var itemsToRemove = [] as ItemDefinition[];
 
