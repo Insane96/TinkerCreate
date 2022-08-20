@@ -6,5 +6,13 @@
             "amplifier": 1,
             "ambient": true
         }
+    ],
+    "attributes": [
+        {
+            "id": "minecraft:generic.follow_range",
+            "modifier_name": "More Sight for Iron Golems",
+            "amount": 2,
+            "operation": "multiply_base"
+        }
     ]
 }
