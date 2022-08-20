@@ -4,7 +4,7 @@
 "Enable Mining" = true
 "Enable Combat" = true
 "Enable Movement" = false
-"Enable Sleep & Respawn" = false
+"Enable Sleep & Respawn" = true
 "Enable Farming" = true
 "Enable Stack Size" = true
 
@@ -26,11 +26,11 @@
 		"Faster Milk Consuming" = true
 		#Multiplier for the time taken to eat. Only applied if 'Eating Speed Based Off Food Config' is active.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Eating Time Multiplier" = 0.13
+		"Eating Time Multiplier" = 0.08
 		#If true, eating/drinking stops when the player's hit.
 		"Stop consuming on hit" = true
 		#Makes the speed for eating food based off the hunger and saturation they provide. At 2 (hunger + saturation) the speed is vanilla, higher / lower (hunger + saturation) will lower / raise the speed. Minimum 16 ticks.
-		"Eating Speed Based Off Food Restored" = false
+		"Eating Speed Based Off Food Restored" = true
 
 	#Makes Health regen work differently, like in Combat Test snapshots. Can be customized. Also adds Well Fed and Injured effects.
 	[Hunger."Health Regen"]
@@ -340,7 +340,7 @@
 		#If true, Swords and Tridents get -1 damage and Axes get -1.5 damage.
 		"Reduce Weapon Damage" = false
 		#If true, Power Enchantment will be nerfed to deal half damage.
-		"Nerf Power" = true
+		"Nerf Power" = false
 		#If true, Arrows from Bows will no longer randomly crit (basically disables the random bonus damage given when firing a fully charged arrow).
 		"Disable Arrow Crits" = true
 		#If true, Arrows from Crossbows will no longer deal random damage, but a set amount of damage (about 9 at a medium distance).
@@ -436,9 +436,9 @@
 
 ["Sleep & Respawn"]
 	#Prevents the player from sleeping if has not enough Hunger and gives him effects on wake up
-	"Enable Sleeping Effects" = true
+	"Enable Sleeping Effects" = false
 	#Prevents sleeping if the player is not tired. Tiredness is gained by gaining exhaustion. Allows you to sleep during daytime if too tired
-	"Enable Tiredness" = true
+	"Enable Tiredness" = false
 	#Makes sleeping impossible or possible during day
 	"Enable Sleeping" = true
 
