@@ -5,4 +5,6 @@
 #The minimum damage dealt to the player for the shield to take damage (reduce durability). Vanilla is 3
 #Range: 0.0 ~ 3.4028234663852886E38
 "Min Shield Hurt Damage" = 0.0
+#Makes shields always disable for 1.6 seconds like Combat Test snapshots.
+"Combat Test shield disabling" = true
 
