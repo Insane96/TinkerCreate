@@ -3,7 +3,7 @@
     "equipment": {
         "main_hand": {
             "chance": {
-                "value": 0.10,
+                "value": 0.05,
                 "difficulty_modifier": {
                     "operation": "add",
                     "easy": -0.05,
@@ -51,8 +51,8 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:mattock",
-                    "weight": 4,
+                    "id": "tconstruct:pickadze",
+                    "weight": 5,
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
@@ -71,8 +71,8 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:hand_axe",
-                    "weight": 3,
+                    "id": "tconstruct:mattock",
+                    "weight": 4,
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
@@ -147,6 +147,42 @@
                     ]
                 },
                 {
+                    "id": "tconstruct:pickadze",
+                    "weight": 3,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 2
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:knockback",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:padded",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:sticky",
+                            "chance": 0.1
+                        }
+                    ]
+                },
+                {
                     "id": "tconstruct:mattock",
                     "weight": 2,
                     "drop_chance": -1,
@@ -183,79 +219,79 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:hand_axe",
+                    "id": "tconstruct:kama",
+                    "weight": 2,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 2
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:knockback",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:padded",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:sticky",
+                            "chance": 0.1
+                        }
+                    ]
+                },
+                {
+                    "id": "tconstruct:pickaxe",
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
-                            "max_tier": 2
+                            "max_tier": 3
                         }
                     },
                     "ticon_modifiers": [
                         {
                             "id": "tconstruct:diamond",
-                            "chance": 0.15
+                            "chance": 0.20
                         },
                         {
                             "id": "tconstruct:emerald",
-                            "chance": 0.15
+                            "chance": 0.20
                         },
                         {
                             "id": "tconstruct:fiery",
-                            "chance": 0.1
+                            "chance": 0.15
                         },
                         {
                             "id": "tconstruct:knockback",
-                            "chance": 0.1
+                            "chance": 0.15
                         },
                         {
                             "id": "tconstruct:padded",
-                            "chance": 0.1
+                            "chance": 0.15
                         },
                         {
                             "id": "tconstruct:sticky",
-                            "chance": 0.1
+                            "chance": 0.15
                         }
                     ]
                 },
                 {
-                    "id": "tconstruct:kama",
-                    "weight": 2,
-                    "drop_chance": -1,
-                    "ticon_materials": {
-                        "random": {
-                            "max_tier": 2
-                        }
-                    },
-                    "ticon_modifiers": [
-                        {
-                            "id": "tconstruct:diamond",
-                            "chance": 0.15
-                        },
-                        {
-                            "id": "tconstruct:emerald",
-                            "chance": 0.15
-                        },
-                        {
-                            "id": "tconstruct:fiery",
-                            "chance": 0.1
-                        },
-                        {
-                            "id": "tconstruct:knockback",
-                            "chance": 0.1
-                        },
-                        {
-                            "id": "tconstruct:padded",
-                            "chance": 0.1
-                        },
-                        {
-                            "id": "tconstruct:sticky",
-                            "chance": 0.1
-                        }
-                    ]
-                },
-                {
-                    "id": "tconstruct:pickaxe",
+                    "id": "tconstruct:pickadze",
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_materials": {
