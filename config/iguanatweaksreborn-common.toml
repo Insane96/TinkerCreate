@@ -31,6 +31,9 @@
 		"Stop consuming on hit" = true
 		#Makes the speed for eating food based off the hunger and saturation they provide. At 2 (hunger + saturation) the speed is vanilla, higher / lower (hunger + saturation) will lower / raise the speed. Minimum 16 ticks.
 		"Eating Speed Based Off Food Restored" = true
+		#The minimum speed a food will take to eat. "Fast Food" items have this value halved. Vanilla time is 32/16
+		#Range: > 0
+		"Eating Time Minimum" = 24
 
 	#Makes Health regen work differently, like in Combat Test snapshots. Can be customized. Also adds Well Fed and Injured effects.
 	[Hunger."Health Regen"]
@@ -240,6 +243,12 @@
 		#Set here an item that can be used on spawners and let you re-enable them.
 		"Reagent Item" = ""
 
+		#A list of mobs (and optionally dimensions) that shouldn't have their spawner disabled. Each entry has an entity or entity tag and optionally a dimension. E.g. ["minecraft:zombie", "minecraft:blaze,minecraft:the_nether"]
+		[Miscellaneous."Temporary Spawners"."Entity Blacklist"]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
+
 	#Small changes to villagers to make them less OP
 	[Miscellaneous."Villager Nerfs"]
 		#If true, villagers will be given 1 trading experience as soon as they choose their job to lock the trades.
@@ -273,12 +282,6 @@
 		#E.g. a beacon with 1 layer full Iron blocks will give 9 range (+ base range), while with 2 layers (34 range / 2) = 17.
 		#
 		"Blocks Range" = ["minecraft:iron_block,1", "minecraft:emerald_block,1.2", "minecraft:gold_block,1.8", "minecraft:diamond_block,3.0", "minecraft:netherite_block,4.0", "tconstruct:cobalt_block,2.2", "tconstruct:queens_slime_block,3.0", "tconstruct:hepatizon_block,2.7", "tconstruct:manyullyn_block,3.3"]
-
-	#A list of mobs (and optionally dimensions) that shouldn't have their spawner disabled. Each entry has an entity or entity tag and optionally a dimension. E.g. ["minecraft:zombie", "minecraft:blaze,minecraft:the_nether"]
-	[Miscellaneous."Entity Blacklist"]
-		Blacklist = []
-		#If true the list will be treated as a whitelist instead of blacklist
-		"List as Whitelist" = false
 
 [Mining]
 	#Change all the blocks hardness
@@ -339,8 +342,6 @@
 	[Combat.Stats]
 		#If true, Swords and Tridents get -1 damage and Axes get -1.5 damage.
 		"Reduce Weapon Damage" = false
-		#If true, Power Enchantment will be nerfed to deal half damage.
-		"Nerf Power" = false
 		#If true, Arrows from Bows will no longer randomly crit (basically disables the random bonus damage given when firing a fully charged arrow).
 		"Disable Arrow Crits" = true
 		#If true, Arrows from Crossbows will no longer deal random damage, but a set amount of damage (about 9 at a medium distance).
@@ -355,6 +356,9 @@
 		#- slot can be: MAIN_HAND,OFF_HAND,HEAD,CHEST,LEGS,FEET
 		#- operation can be: ADDITION, MULTIPLY_BASE, MULTIPLY_TOTAL
 		"Item Modifiers" = []
+		#Set the power of the Power enchantment (vanilla is 0.5).
+		#Range: 0.0 ~ 100.0
+		"Power Power" = 0.3
 
 	#Player will deal no knockback if attacking with a non-weapon or spamming
 	[Combat."No Knockback"]
