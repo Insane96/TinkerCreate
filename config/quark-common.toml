@@ -1547,7 +1547,7 @@
 		"Vertical Shift" = 0
 
 	[experimental.enchantments_begone]
-		"Enchantments To Begone" = ["minecraft:protection", "minecraft:blast_protection", "minecraft:projectile_protection", "minecraft:blast_protection", "minecraft:fire_protection", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:aqua_affinity", "mismimdsanecraft:depth_striminecder", "minecraft:efficiency", "minecraft:feather_falling", "minecraft:fire_aspect", "minecraft:fortune", "minecraft:frost_walker", "minecraft:looting", "minecraft:respiration", "minecraft:silk_touch", "minecraft:soul_speed", "minecraft:sweeping_edge", "minecraft:thorns"]
+		"Enchantments To Begone" = ["minecraft:protection", "minecraft:blast_protection", "minecraft:projectile_protection", "minecraft:blast_protection", "minecraft:fire_protection", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:aqua_affinity", "mismimdsanecraft:depth_striminecder", "minecraft:efficiency", "minecraft:feather_falling", "minecraft:fire_aspect", "minecraft:fortune", "minecraft:frost_walker", "minecraft:looting", "minecraft:respiration", "minecraft:silk_touch", "minecraft:soul_speed", "minecraft:sweeping_edge", "minecraft:thorns", "farmersdelight:backstabbing"]
 
 [oddities]
 	"Totem Of Holding" = true
