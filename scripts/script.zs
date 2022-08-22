@@ -62,3 +62,7 @@ function removeAndHideItem(item as ItemDefinition) as void {
     craftingTable.remove(item.defaultInstance);
     JEI.hideIngredient(item.defaultInstance);
 }
+
+JEI.addIngredient(<item:create:chromatic_compound>);
+JEI.addIngredient(<item:create:refined_radiance>);
+JEI.addIngredient(<item:create:shadow_steel>);
