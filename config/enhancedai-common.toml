@@ -405,16 +405,16 @@
 		"Attack When Avoiding Chance" = 0.0
 		#Distance from a player that will make the Witch run away.
 		#Range: 0.0 ~ 32.0
-		"Flee Distance Far" = 16.0
+		"Flee Distance Far" = 12.0
 		#Distance from a player that counts as near and will make the Witch run away faster.
 		#Range: 0.0 ~ 32.0
-		"Flee Distance Near" = 8.0
+		"Flee Distance Near" = 6.0
 		#Speed multiplier when the Witch avoids the player and it's farther than 'Flee Distance Near' blocks from him.
 		#Range: 0.0 ~ 4.0
-		"Flee speed Multiplier Far" = 1.1
+		"Flee speed Multiplier Far" = 1.0
 		#Speed multiplier when the Witch avoids the player and it's within 'Flee Distance Near' blocks from him.
 		#Range: 0.0 ~ 4.0
-		"Flee speed Multiplier Near" = 1.25
+		"Flee speed Multiplier Near" = 1.1
 
 	#Witches drink more potions.
 	[Witch."Thirsty Witches"]
