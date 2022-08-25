@@ -1433,7 +1433,7 @@
 	"Usage Ticker" = true
 	"Soul Candles" = false
 	"Microcrafting Helper" = false
-	"Improved Tooltips" = false
+	"Improved Tooltips" = true
 	"Greener Grass" = true
 	"Chest Searching" = true
 	"Back Button Keybind" = true
@@ -1467,7 +1467,7 @@
 		"Enable Armor" = true
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = true
+		"Attribute Tooltips" = fakse
 		"Food Tooltips" = true
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
