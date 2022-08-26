@@ -1467,7 +1467,7 @@
 		"Enable Armor" = true
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = fakse
+		"Attribute Tooltips" = false
 		"Food Tooltips" = true
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
@@ -1553,7 +1553,7 @@
 	"Totem Of Holding" = true
 	"Tiny Potato" = true
 	Pipes = false
-	"Matrix Enchanting" = false
+	"Matrix Enchanting" = true
 	Magnets = false
 	Crate = false
 	Backpack = false
@@ -1623,7 +1623,7 @@
 		"Disallowed Enchantments" = []
 		#An array of influences each candle should apply. This list must be 16 elements long, and is in order of wool colors.
 		#A minus sign before an enchantment will make the influence decrease the probability of that enchantment.
-		"Influences List" = ["minecraft:unbreaking", "minecraft:fire_protection", "minecraft:knockback,minecraft:punch", "minecraft:feather_falling", "minecraft:looting,minecraft:fortune,minecraft:luck_of_the_sea", "minecraft:blast_protection", "minecraft:silk_touch,minecraft:channeling", "minecraft:bane_of_arthropods", "minecraft:protection", "minecraft:respiration,minecraft:loyalty,minecraft:infinity", "minecraft:sweeping,minecraft:multishot", "minecraft:efficiency,minecraft:sharpness,minecraft:lure,minecraft:power,minecraft:impaling,minecraft:quick_charge", "minecraft:aqua_affinity,minecraft:depth_strider,minecraft:riptide", "minecraft:thorns,minecraft:piercing", "minecraft:fire_aspect,minecraft:flame", "minecraft:smite,minecraft:projectile_protection"]
+		"Influences List" = ["minecraft:unbreaking", "", ",minecraft:punch", "", "minecraft:luck_of_the_sea", "", "minecraft:channeling", "", "", "minecraft:loyalty,minecraft:infinity", "minecraft:multishot", "minecraft:lure,minecraft:power,minecraft:impaling,minecraft:quick_charge", "minecraft:riptide", "minecraft:piercing", "minecraft:flame", ""]
 		#Set to false to disable the ability to influence enchantment outcomes with candles
 		"Allow Influencing" = true
 		#The max amount of candles that can influence a single enchantment
