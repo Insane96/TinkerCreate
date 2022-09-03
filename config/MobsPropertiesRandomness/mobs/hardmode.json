@@ -3,19 +3,22 @@
     "attributes": [
         {
             "id": "minecraft:generic.max_health",
-            "modifier_name": "More Health for Hostiles",
-            "amount": 15,
+            "modifier_name": "More Health for Hostiles in Hard Mode",
+            "amount": 10,
             "operation": "addition"
         },
         {
             "id": "minecraft:generic.movement_speed",
-            "modifier_name": "More Speed for Hostiles",
-            "amount": 0.15,
+            "modifier_name": "More Speed for Hostiles in Hard Mode",
+            "amount": {
+                "min": 0.05,
+                "max": 0.1
+            },
             "operation": "multiply_base"
         },
         {
             "id": "minecraft:generic.attack_damage",
-            "modifier_name": "More Damage for Hostiles",
+            "modifier_name": "More Damage for Hostiles in Hard Mode",
             "amount": 0.10,
             "operation": "multiply_base"
         }

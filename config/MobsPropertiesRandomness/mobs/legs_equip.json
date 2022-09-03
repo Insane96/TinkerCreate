@@ -13,7 +13,7 @@
                 "time_existed_modifier": {
                     "bonus_percentage": 0.125,
                     "seconds": 7200,
-                    "max_bonus_percentage": 3
+                    "max_bonus_percentage": 2.5
                 },
                 "conditions_modifier": [
                     {
@@ -93,73 +93,63 @@
                         },
                         {
                             "id": "tconstruct:protection",
-                            "level": 1,
-                            "chance": 0.3
-                        },
-                        {
-                            "id": "tconstruct:blast_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:blast_protection",
-                            "level": 1,
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fire_protection",
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:fire_protection",
-                            "level": 1,
-                            "chance": 0.10
+                            "chance": 0.05
                         },
                         {
-                            "id": "tconstruct:fire_protection",
-                            "level": 1,
+                            "id": "tconstruct:magic_protection",
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:magic_protection",
-                            "level": 1,
-                            "chance": 0.10
+                            "chance": 0.05
                         },
                         {
-                            "id": "tconstruct:magic_protection",
-                            "level": 1,
+                            "id": "tconstruct:melee_protection",
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:melee_protection",
-                            "level": 1,
-                            "chance": 0.10
+                            "chance": 0.05
                         },
                         {
-                            "id": "tconstruct:melee_protection",
-                            "level": 1,
+                            "id": "tconstruct:projectile_protection",
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:projectile_protection",
-                            "level": 1,
-                            "chance": 0.10
+                            "chance": 0.05
                         },
                         {
-                            "id": "tconstruct:projectile_protection",
-                            "level": 1,
+                            "id": "tconstruct:turtle_shell",
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:turtle_shell",
-                            "level": 1,
-                            "chance": 0.10
+                            "chance": 0.05
                         },
                         {
-                            "id": "tconstruct:turtle_shell",
-                            "level": 1,
+                            "id": "tconstruct:revitalizing",
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:revitalizing",
-                            "level": 1,
-                            "chance": 0.15
+                            "chance": 0.05
                         }
                     ]
                 },
@@ -168,11 +158,6 @@
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_modifiers": [
-                        {
-                            "id": "tconstruct:protection",
-                            "level": 1,
-                            "chance": 0.3
-                        },
                         {
                             "id": "tconstruct:diamond",
                             "level": 1,
@@ -185,148 +170,123 @@
                         },
                         {
                             "id": "tconstruct:protection",
-                            "level": 1,
-                            "chance": 0.3
+                            "chance": 0.15
+                        },
+                        {
+                            "id": "tconstruct:protection",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:blast_protection",
-                            "level": 1,
-                            "chance": 0.20
-                        },
-                        {
-                            "id": "tconstruct:blast_protection",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:blast_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:blast_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
-                            "id": "tconstruct:fire_protection",
-                            "level": 1,
-                            "chance": 0.20
+                            "id": "tconstruct:blast_protection",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:fire_protection",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:fire_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:fire_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
-                            "id": "tconstruct:magic_protection",
-                            "level": 1,
-                            "chance": 0.20
+                            "id": "tconstruct:fire_protection",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:magic_protection",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:magic_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:magic_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
-                            "id": "tconstruct:melee_protection",
-                            "level": 1,
-                            "chance": 0.20
+                            "id": "tconstruct:magic_protection",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:melee_protection",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:melee_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:melee_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
-                            "id": "tconstruct:projectile_protection",
-                            "level": 1,
-                            "chance": 0.20
+                            "id": "tconstruct:melee_protection",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:projectile_protection",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:projectile_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:projectile_protection",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
-                            "id": "tconstruct:turtle_shell",
-                            "level": 1,
-                            "chance": 0.20
+                            "id": "tconstruct:projectile_protection",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:turtle_shell",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:turtle_shell",
-                            "level": 1,
                             "chance": 0.10
                         },
                         {
                             "id": "tconstruct:turtle_shell",
-                            "level": 1,
                             "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:turtle_shell",
+                            "chance": 0.05
                         },
                         {
                             "id": "tconstruct:knockback_resistance",
-                            "level": 1,
                             "chance": 0.20
                         },
                         {
                             "id": "tconstruct:revitalizing",
-                            "level": 1,
-                            "chance": 0.20
-                        },
-                        {
-                            "id": "tconstruct:revitalizing",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {
                             "id": "tconstruct:revitalizing",
-                            "level": 1,
-                            "chance": 0.15
+                            "chance": 0.10
+                        },
+                        {
+                            "id": "tconstruct:revitalizing",
+                            "chance": 0.10
                         }
                     ]
                 }

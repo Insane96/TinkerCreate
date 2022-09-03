@@ -1,0 +1,11 @@
+{
+    "group": "hostiles_no_zombies",
+    "attributes": [
+        {
+            "id": "minecraft:generic.follow_range",
+            "modifier_name": "More Sight for Hostiles",
+            "amount": 16,
+            "operation": "addition"
+        }
+    ]
+}
