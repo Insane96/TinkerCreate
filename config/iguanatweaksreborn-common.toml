@@ -159,6 +159,11 @@
 		#Can be set to 0 to make Bottle o' enchanting drop no experience
 		#Range: 0 ~ 1024
 		"Bottle o' Enchanting Bonus XP" = 11
+		#Set the cap for repairing items in the anvil (vanilla is 40)
+		#Range: > 1
+		"Anvil Repair Cap" = 2048
+		#Removes cost of renaming items in Anvil
+		"Remove rename cost" = true
 
 [Miscellaneous]
 	#Various changes to explosions from knockback to shielding.
