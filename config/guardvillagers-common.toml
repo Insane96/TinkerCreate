@@ -45,5 +45,5 @@
 	"Allow players to give guards stuff only if they have the hero of the village effect?" = false
 	"Allow players to set guard patrol points only if they have hero of the village" = false
 	#Range: > -2147483648
-	"Minimum reputation requirement for guards to give you access to their inventories" = 15
+	"Minimum reputation requirement for guards to give you access to their inventories" = 10
 

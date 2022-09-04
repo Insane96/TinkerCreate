@@ -1,0 +1,44 @@
+{
+    "type": "guardvillagers:slot",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "tconstruct:sword",
+                    "functions": [
+                        {
+                            "function": "tconstruct:add_tool_data",
+                            "materials": [
+                                {
+                                    "type": "tconstruct:random",
+                                    "stat_type": "head",
+                                    "min_tier": 1
+                                },
+                                {
+                                    "type": "tconstruct:random",
+                                    "stat_type": "handle",
+                                    "min_tier": 1
+                                },
+                                {
+                                    "type": "tconstruct:random",
+                                    "stat_type": "handle",
+                                    "min_tier": 1
+                                }
+                            ]
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{tic_upgrades:[{name:\"tconstruct:diamond\", level: 1s}]}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:crossbow"
+                }
+            ]
+        }
+    ]
+}
