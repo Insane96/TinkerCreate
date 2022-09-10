@@ -13,7 +13,7 @@
 	#Change how mobs target players
 	"Enable Targeting" = false
 	#Mobs will run away from exploding creepers / TNT
-	"Enable Avoid Explosions" = true
+	"Enable Avoid Explosions" = false
 	#Prevent players from abusing some game mechanics to stop mobs
 	"Enable Anti-Cheese" = false
 	#Makes mobs be able to move in more ways, like climbing or swim.
@@ -355,7 +355,7 @@
 	#Witches drink more potions.
 	"Enable Thirsty Witches" = true
 	#Witches summon Villagers and cast a lightning bolt upon them.
-	"Enable Dark Arts Witches" = true
+	"Enable Dark Arts Witches" = false
 
 	#Witches throw potions farther, faster and more potion types. Also no longer chase player if they can't see him.
 	[Witch."Witch Potion Throwing"]
@@ -373,7 +373,7 @@
 		"Use Slow Falling" = true
 		#When below this health percentage Witches will throw Invisibility potions at their feet.
 		#Range: 0.0 ~ 1.0
-		"Health Threshold Invisibility" = 0.5
+		"Health Threshold Invisibility" = 0.333
 
 		#Speed at which Witches throw potions
 		[Witch."Witch Potion Throwing"."Throw Speed"]
@@ -414,7 +414,7 @@
 		"Flee speed Multiplier Far" = 1.0
 		#Speed multiplier when the Witch avoids the player and it's within 'Flee Distance Near' blocks from him.
 		#Range: 0.0 ~ 4.0
-		"Flee speed Multiplier Near" = 1.1
+		"Flee speed Multiplier Near" = 1.0
 
 	#Witches drink more potions.
 	[Witch."Thirsty Witches"]
@@ -481,7 +481,7 @@
 
 		#Entities that shouldn't get the Digger AI
 		[Zombie."Digger Zombie"."Entity Blacklist"]
-			Blacklist = []
+			Blacklist = ["quark:wraith"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
@@ -499,7 +499,7 @@
 
 		#Entities that shouldn't get the Pearler AI
 		[Zombie."Pearler Zombie"."Entity Blacklist"]
-			Blacklist = []
+			Blacklist = ["quark:wraith"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
@@ -511,7 +511,7 @@
 
 		#Entities that shouldn't get the Fisher AI
 		[Zombie."Fisher Zombie"."Entity Blacklist"]
-			Blacklist = []
+			Blacklist = ["quark:wraith"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
