@@ -13,17 +13,17 @@
                             "materials": [
                                 {
                                     "type": "tconstruct:random",
-                                    "stat_type": "head",
+                                    "stat_type": "tconstruct:head",
                                     "min_tier": 1
                                 },
                                 {
                                     "type": "tconstruct:random",
-                                    "stat_type": "handle",
+                                    "stat_type": "tconstruct:handle",
                                     "min_tier": 1
                                 },
                                 {
                                     "type": "tconstruct:random",
-                                    "stat_type": "handle",
+                                    "stat_type": "tconstruct:handle",
                                     "min_tier": 1
                                 }
                             ]
