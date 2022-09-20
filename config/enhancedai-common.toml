@@ -253,7 +253,7 @@
 
 		#Entities that shouldn't get the enhanced Shoot AI
 		[Skeleton."Skeleton Shoot"."Entity Blacklist"]
-			Blacklist = ["quark:forgotten"]
+			Blacklist = ["quark:forgotten", "progressivebosses:wither_minion"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
@@ -280,7 +280,7 @@
 
 		#Entities that shouldn't get the enhanced Shoot AI
 		[Skeleton."Skeleton Flee"."Entity Blacklist"]
-			Blacklist = ["quark:forgotten"]
+			Blacklist = ["quark:forgotten", "progressivebosses:wither_minion"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 

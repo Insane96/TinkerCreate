@@ -1,0 +1,11 @@
+{
+    "mob_id": "guardvillagers:guard",
+    "attributes": [
+        {
+            "id": "forge:swim_speed",
+            "modifier_name": "More Swim for Hostiles",
+            "amount": 1.5,
+            "operation": "multiply_base"
+        }
+    ]
+}
