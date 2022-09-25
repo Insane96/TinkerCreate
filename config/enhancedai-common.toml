@@ -57,6 +57,12 @@
 
 	#Mobs will run away from exploding creepers / TNT
 	[Base."Avoid Explosions"]
+		#Speed multiplier when the mob runs from explosions and it's within 7 blocks from him.
+		#Range: 0.0 ~ 10.0
+		"Flee speed Multiplier Near" = 1.5
+		#Speed multiplier when the mob runs from explosions and it's farther than 7 blocks from him.
+		#Range: 0.0 ~ 10.0
+		"Flee speed Multiplier Far" = 1.25
 
 		#Entities that shouldn't get the Avoid Explosions AI
 		[Base."Avoid Explosions"."Entity Blacklist"]
@@ -179,6 +185,8 @@
 		"Launch Chance" = 0.0
 		#If true creepers will ignite if damaged by an explosion.
 		"TNT Like" = false
+		#If true, Creeper Cena explosion will generate fire
+		"Cena generates fire" = false
 
 [Drowned]
 	#Makes drowned swim speed based off swim speed attribute instead of movement speed.
@@ -355,7 +363,7 @@
 	#Witches drink more potions.
 	"Enable Thirsty Witches" = true
 	#Witches summon Villagers and cast a lightning bolt upon them.
-	"Enable Dark Arts Witches" = false
+	"Enable Dark Arts Witches" = true
 
 	#Witches throw potions farther, faster and more potion types. Also no longer chase player if they can't see him.
 	[Witch."Witch Potion Throwing"]
