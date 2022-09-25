@@ -164,6 +164,11 @@
 		"Anvil Repair Cap" = 2048
 		#Removes cost of renaming items in Anvil
 		"Remove rename cost" = true
+		#Replaces the default Mending enchantment. Mending sets the repair cost of an item to 'Unmending Cap' and will stop it from increasing. No longer repairs items with xp.
+		Unmending = true
+		#Set the cap repair cost set by Unmending
+		#Range: > 1
+		"Unmending Cap" = 20
 
 [Miscellaneous]
 	#Various changes to explosions from knockback to shielding.
@@ -362,8 +367,8 @@
 		#- operation can be: ADDITION, MULTIPLY_BASE, MULTIPLY_TOTAL
 		"Item Modifiers" = []
 		#Set the power of the Power enchantment (vanilla is 0.5).
-		#Range: 0.0 ~ 100.0
-		"Power Power" = 0.3
+		#Range: 0.0 ~ 10.0
+		"Power Power" = 0.35
 
 	#Player will deal no knockback if attacking with a non-weapon or spamming
 	[Combat."No Knockback"]
@@ -479,6 +484,11 @@
 		#Every this Tiredness above 'Tiredness for effect' will add a new level of Tired.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Tiredness per level" = 20.0
+		#A list of items that when consumed will give the Energy Boost effect.
+		#You can specify the item/tag only and the duration will be calculated from the hunger restored or you can include duration,amplifier for customs.
+		#The iguanatweaksreborn:energy_boost item tag can be used to add items without a custom duration
+		#Format is 'modid:item_id' / '#modid:item_tag' or 'modid:item_id,duration,amplifier' / '#modid:item_tag,duration,amplifier'.
+		"Plants Growth Multiplier" = ["#iguanatweaksreborn:energy_boost", "farmersdelight:hot_cocoa,80,0"]
 
 	#Makes sleeping impossible or possible during day
 	["Sleep & Respawn".Sleeping]
