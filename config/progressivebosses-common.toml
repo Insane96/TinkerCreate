@@ -130,23 +130,23 @@
 		"Kill Minions on Wither Death" = true
 
 		[Wither.Minions.Equipment]
-			#Chance for the Wither Minion to spawn with a bow instead of a Stone Sword when Wither's below Half Health
-			#Range: 0.0 ~ 1.0
-			"Bow Chance Below Half Health" = 0.08
 			#Chance for the Wither Minion to spawn with a bow instead of a Stone Sword when Wither's above Half Health
 			#Range: 0.0 ~ 1.0
 			"Bow Chance Above Half Health" = 0.6
+			#Chance for the Wither Minion to spawn with a bow instead of a Stone Sword when Wither's below Half Health
+			#Range: 0.0 ~ 1.0
+			"Bow Chance Below Half Health" = 0.08
 
 			[Wither.Minions.Equipment.Enchantments]
 				#Chance (at max difficulty) for the Wither Minion's Sword to be enchanted with Sharpness. Note that every 100% chance adds one guaranteed level of the enchantment, while the remaining dictates the chance to add on more level.
 				#Range: 0.0 ~ 255.0
 				"Sharpness Chance" = 2.4
-				#Chance (at max difficulty) for the Wither Minion's Bow to be enchanted with Power. Note that every 100% chance adds one guaranteed level of the enchantment, while the remaining dictates the chance to add on more level.
-				#Range: 0.0 ~ 255.0
-				"Power Chance" = 1.5
 				#Chance (at max difficulty) for the Wither Minion's Sword to be enchanted with Knockback. Note that every 100% chance adds one guaranteed level of the enchantment, while the remaining dictates the chance to add on more level.
 				#Range: 0.0 ~ 255.0
 				"Knockback Chance" = 2.4
+				#Chance (at max difficulty) for the Wither Minion's Bow to be enchanted with Power. Note that every 100% chance adds one guaranteed level of the enchantment, while the remaining dictates the chance to add on more level.
+				#Range: 0.0 ~ 255.0
+				"Power Chance" = 3.2
 				#Chance (at max difficulty) for the Wither Minion's Bow to be enchanted with Punch. Note that every 100% chance adds one guaranteed level of the enchantment, while the remaining dictates the chance to add on more level.
 				#Range: 0.0 ~ 255.0
 				"Punch Chance" = 1.5
