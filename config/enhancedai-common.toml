@@ -168,9 +168,6 @@
 
 	#Various changes to Creepers exploding. Ignoring Walls, Walking Fuse and smarter exploding based off explosion size
 	[Creeper."Creeper Swell"]
-		#AND HIS NAME IS ...
-		#Range: 0.0 ~ 1.0
-		"Cena Chance" = 0.0
 		#Percentage chance for a Creeper to not stand still while exploding.
 		#Range: 0.0 ~ 1.0
 		"Walking Fuse Chance" = 0.1
@@ -185,8 +182,16 @@
 		"Launch Chance" = 0.0
 		#If true creepers will ignite if damaged by an explosion.
 		"TNT Like" = false
-		#If true, Creeper Cena explosion will generate fire
-		"Cena generates fire" = false
+
+		[Creeper."Creeper Swell"."Creeper Cena"]
+			#AND HIS NAME IS ...
+			#Range: 0.0 ~ 1.0
+			"Cena Chance" = 0.02
+			#If true, Creeper Cena explosion will generate fire
+			"Cena generates fire" = false
+			#Explosion power of Creeper Cena
+			#Range: 0.0 ~ 12.0
+			"Cena explosion power" = 4.0
 
 [Drowned]
 	#Makes drowned swim speed based off swim speed attribute instead of movement speed.
