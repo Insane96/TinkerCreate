@@ -123,14 +123,14 @@
 		#Experience dropped will be multiplied by this multiplier.
 		#Can be set to 0 to disable experience drop from any source.
 		#Range: 0.0 ~ 1000.0
-		"Global Experience Multiplier" = 1.5
+		"Global Experience Multiplier" = 1.25
 
 	#Decrease / Increase experience dropped by blocks broken
 	[Experience."Experience From Blocks"]
 		#Experience dropped by blocks (Ores and Spawners) will be multiplied by this multiplier. Experience dropped by blocks are still affected by 'Global Experience Multiplier'
 		#Can be set to 0 to make blocks drop no experience
 		#Range: 0.0 ~ 1024.0
-		"Experience from Blocks Multiplier" = 2.0
+		"Experience from Blocks Multiplier" = 2.5
 
 	#Decrease / Increase experience dropped mobs spawned by Spawners
 	[Experience."Experience From Spawners' Mobs"]
@@ -138,7 +138,7 @@
 		#Experience dropped by mobs from spawners are still affected by 'Global Experience Multiplier'
 		#Can be set to 0 to disable experience drop from mob that come from spawners.
 		#Range: 0.0 ~ 1000.0
-		"Mobs from Spawners Multiplier" = 0.4
+		"Mobs from Spawners Multiplier" = 0.5
 
 	#Changes the experience lost on death and xp per level required.
 	[Experience."Player Experience"]
