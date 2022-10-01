@@ -4,9 +4,7 @@
         {
             "id": "minecraft:generic.max_health",
             "modifier_name": "More Health for Iron Golem in Hard Mode",
-            "amount": {
-                "max": 0.5
-            },
+            "amount": 0.5,
             "operation": "multiply_base"
         },
         {
