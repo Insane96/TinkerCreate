@@ -255,7 +255,7 @@
 
 		#A list of mobs (and optionally dimensions) that shouldn't have their spawner disabled. Each entry has an entity or entity tag and optionally a dimension. E.g. ["minecraft:zombie", "minecraft:blaze,minecraft:the_nether"]
 		[Miscellaneous."Temporary Spawners"."Entity Blacklist"]
-			Blacklist = []
+			Blacklist = ["minecraft:blaze"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
