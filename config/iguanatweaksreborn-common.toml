@@ -64,13 +64,27 @@
 		#If 'Consume Hunger Only' is true then this is the chance to consume an hunger whenever the player is healed (vanilla ignores this; Combat Test has this set to 0.5).
 		#Range: 0.0 ~ 1.0
 		"Hunger Consumption Chance" = 0.0
-		#Set to true to enable Well Fed, a new effect that speeds up health regen and is applied whenever the player eats. The effect speeds up health regen by 25% per level.
-		"Enable Well Fed" = true
-		#Set to true to enable Injured, a new effect that slows down health regen and is applied whenever the player is damaged. The effect slows down health regen by 20% per level.
-		"Enable Injured" = true
 		#When eating you'll get healed by this percentage of (hunger + saturation) restored.
 		#Range: 0.0 ~ 128.0
 		"Food Heal Multiplier" = 0.075
+
+		[Hunger."Health Regen".Effects]
+			#Set to true to enable Well Fed, a new effect that speeds up health regen and is applied whenever the player eats.
+			"Enable Well Fed" = true
+			#Multiplies the base duration of Well Fed by this value. Base duration is 1 second per food effectiveness (hunger + saturation).
+			#Range: 0.0 ~ 128.0
+			"Well Fed Duration Multiplier" = 1.0
+			#How much does health regen Well Fed increases per level. (This is inversely proportional, a value of 0.25 makes makes time to regen lower by 20%. A value of 1.0 makes time to regen lower by 50%.
+			#Range: 0.0 ~ 10.0
+			"Well Fed Effectiveness" = 0.25
+			#Set to true to enable Injured, a new effect that slows down health regen and is applied whenever the player is damaged. The effect slows down health regen by 20% per level.
+			"Enable Injured" = true
+			#Multiplies the base duration of Injured by this value. Base duration is 1 second per point of damage taken.
+			#Range: 0.0 ~ 128.0
+			"Injured Duration Multiplier" = 1.0
+			#How much does health regen Injured decreases per level.
+			#Range: 0.0 ~ 10.0
+			"Injured Effectiveness" = 0.2
 
 	#Change food's hunger and saturation given, also makes food heal you by a bit. Changing anything requires a Minecraft restart.
 	[Hunger."Food Hunger"]
