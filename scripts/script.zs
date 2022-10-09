@@ -24,7 +24,13 @@ var itemsToRemoveAndHide = [
     <item:savage_and_ravage:cleaver_of_beheading>, <item:savage_and_ravage:griefer_helmet>, <item:savage_and_ravage:griefer_chestplate>, <item:savage_and_ravage:griefer_leggings>, <item:savage_and_ravage:griefer_boots>, <item:savage_and_ravage:mask_of_dishonesty>,
     <item:incubation:fried_egg>,
     <item:farmersdelight:flint_knife>, <item:farmersdelight:iron_knife>, <item:farmersdelight:golden_knife>, <item:farmersdelight:diamond_knife>, <item:farmersdelight:netherite_knife>, <item:farmersdelight:wheat_dough>, <item:farmersdelight:rope>,
-    <item:supplementaries:pulley_block>, <item:supplementaries:turn_table>, <item:supplementaries:bellows>, <item:supplementaries:crank>, <item:supplementaries:wrench>] as ItemDefinition[];
+    <item:supplementaries:pulley_block>, <item:supplementaries:turn_table>, <item:supplementaries:bellows>, <item:supplementaries:crank>, <item:supplementaries:wrench>,
+    <item:twilightforest:ironwood_sword>, <item:twilightforest:ironwood_shovel>, <item:twilightforest:ironwood_pickaxe>, <item:twilightforest:ironwood_axe>, <item:twilightforest:ironwood_hoe>,
+    <item:twilightforest:fiery_sword>, <item:twilightforest:fiery_pickaxe>,
+    <item:twilightforest:giant_sword>, <item:twilightforest:giant_pickaxe>,
+    <item:twilightforest:steeleaf_sword>, <item:twilightforest:steeleaf_pickaxe>, <item:twilightforest:steeleaf_shovel>,<item:twilightforest:steeleaf_axe>,<item:twilightforest:steeleaf_hoe>,
+    <item:twilightforest:knightmetal_sword>, <item:twilightforest:knightmetal_pickaxe>, <item:twilightforest:knightmetal_axe>, <item:twilightforest:knightmetal_shield>,
+    <item:twilightforest:naga_chestplate>, <item:twilightforest:naga_leggings>, <item:twilightforest:ironwood_helmet>, <item:twilightforest:ironwood_chestplate>, <item:twilightforest:ironwood_leggings>, <item:twilightforest:ironwood_boots>, <item:twilightforest:fiery_helmet>, <item:twilightforest:fiery_chestplate>, <item:twilightforest:fiery_leggings>, <item:twilightforest:fiery_boots>, <item:twilightforest:steeleaf_helmet>, <item:twilightforest:steeleaf_chestplate>, <item:twilightforest:steeleaf_leggings>, <item:twilightforest:steeleaf_boots>, <item:twilightforest:knightmetal_helmet>, <item:twilightforest:knightmetal_chestplate>, <item:twilightforest:knightmetal_leggings>, <item:twilightforest:knightmetal_boots>, <item:twilightforest:phantom_helmet>, <item:twilightforest:phantom_chestplate>, <item:twilightforest:arctic_helmet>, <item:twilightforest:arctic_chestplate>, <item:twilightforest:arctic_leggings>, <item:twilightforest:arctic_boots>, <item:twilightforest:yeti_helmet>, <item:twilightforest:yeti_chestplate>, <item:twilightforest:yeti_leggings>, <item:twilightforest:yeti_boots>] as ItemDefinition[];
 
 var itemsToRemove = [] as ItemDefinition[];
 

@@ -10,6 +10,7 @@
         "**/resourcepacks": true,
         "**/saves": true,
         "**/screenshots": true,
+        "**/schematics": true,
         "**/servers.*": true,
         "**/*.log.gz": true
     }

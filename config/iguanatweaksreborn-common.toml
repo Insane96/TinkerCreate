@@ -183,8 +183,8 @@
 	"Enable Villager Nerfs" = true
 	#Various Nerfs
 	"Enable Nerfs" = true
-	#Beacon Range varying based of blocks of the pyramid
-	"Enable Beacon" = true
+	#Beacon Range varying based of blocks of the pyramid and better conduit killing mobs
+	"Enable Beacon & Conduit" = true
 
 	#Various changes to explosions from knockback to shielding.
 	[Miscellaneous."Explosion Overhaul"]
@@ -282,8 +282,8 @@
 		#If true, boats will no longer go stupidly fast on ice.
 		"No Ice Boats" = true
 
-	#Beacon Range varying based of blocks of the pyramid
-	[Miscellaneous.Beacon]
+	#Beacon Range varying based of blocks of the pyramid and better conduit killing mobs
+	[Miscellaneous."Beacon & Conduit"]
 		#Base range of the beacon
 		#Range: 0.0 ~ 256.0
 		"Base Range" = 10.0
@@ -292,6 +292,8 @@
 		#E.g. a beacon with 1 layer full Iron blocks will give 9 range (+ base range), while with 2 layers (34 range / 2) = 17.
 		#
 		"Blocks Range" = ["minecraft:iron_block,1", "minecraft:emerald_block,1.2", "minecraft:gold_block,1.8", "minecraft:diamond_block,2.5", "minecraft:netherite_block,4.0", "tconstruct:cobalt_block,2.4", "tconstruct:queens_slime_block,3.0", "tconstruct:hepatizon_block,2.7", "tconstruct:manyullyn_block,3.3"]
+		#Increases the range and damage of the conduit
+		"Better Conduit Protection" = true
 
 [Mining]
 	#Change all the blocks hardness
