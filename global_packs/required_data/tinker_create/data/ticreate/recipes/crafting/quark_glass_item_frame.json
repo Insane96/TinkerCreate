@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "tconstruct:clear_item_frame"
+        }
+      ],
+    "result": {
+      "item": "quark:glass_item_frame"
+    }
+}
