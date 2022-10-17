@@ -10,5 +10,5 @@
 	#MINIMIZE - Minimizes (iconify) the window when focus on a fullscreen window is lost, this is the default Minecraft behaviour.
 	#SWITCH_TO_WINDOWED - Switches to a windowed mode and leaves the fullscreen when focus on a fullscreen window is lost.
 	#Allowed Values: DO_NOTHING, MINIMIZE, SWITCH_TO_WINDOWED
-	focusLoss = "MINIMIZE"
+	focusLoss = "DO_NOTHING"
 
