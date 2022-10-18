@@ -28,6 +28,14 @@
         "minecraft:vindicator",
         "minecraft:witch",
         "minecraft:zoglin",
-        "minecraft:zombie_villager"
+        "minecraft:zombie_villager",
+        "savage_and_ravage:skeleton_villager",
+        "savage_and_ravage:executioner",
+        "savage_and_ravage:griefer",
+        "savage_and_ravage:iceologer",
+        "savage_and_ravage:trickster",
+        "biomemakeover:cowboy",
+        "biomemakeover:ghost",
+        "biomemakeover:moth"
     ]
 }
