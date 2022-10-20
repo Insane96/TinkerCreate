@@ -173,7 +173,7 @@
 		"Walking Fuse Chance" = 0.1
 		#Percentage chance for a Creeper to ignore walls while targeting a player. This means that a creeper will be able to explode if it's in the correct range from a player even if there's a wall between.
 		#Range: 0.0 ~ 1.0
-		"Ignore Walls Chance" = 0.1
+		"Ignore Walls Chance" = 0.25
 		#Breaching creepers will try to open an hole in the wall to let mobs in.
 		#Range: 0.0 ~ 1.0
 		"Breach Chance" = 0.0
@@ -186,12 +186,12 @@
 		[Creeper."Creeper Swell"."Creeper Cena"]
 			#AND HIS NAME IS ...
 			#Range: 0.0 ~ 1.0
-			"Cena Chance" = 0.02
+			"Cena Chance" = 0.04
 			#If true, Creeper Cena explosion will generate fire
 			"Cena generates fire" = false
 			#Explosion power of Creeper Cena
 			#Range: 0.0 ~ 12.0
-			"Cena explosion power" = 4.0
+			"Cena explosion power" = 6.0
 
 [Drowned]
 	#Makes drowned swim speed based off swim speed attribute instead of movement speed.
