@@ -512,7 +512,7 @@
 
 		#Entities that shouldn't get the Pearler AI
 		[Zombie."Pearler Zombie"."Entity Blacklist"]
-			Blacklist = ["quark:wraith"]
+			Blacklist = ["quark:wraith", "minecraft:zombified_piglin"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
@@ -524,7 +524,7 @@
 
 		#Entities that shouldn't get the Fisher AI
 		[Zombie."Fisher Zombie"."Entity Blacklist"]
-			Blacklist = ["quark:wraith"]
+			Blacklist = ["quark:wraith", "minecraft:zombified_piglin"]
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 
