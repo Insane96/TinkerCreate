@@ -8,6 +8,8 @@
 "Enable Spider" = true
 "Enable Witch" = true
 "Enable Zombie" = true
+"Enable Enderman" = true
+"Enable Villager" = true
 
 [Base]
 	#Change how mobs target players
@@ -525,6 +527,32 @@
 		#Entities that shouldn't get the Fisher AI
 		[Zombie."Fisher Zombie"."Entity Blacklist"]
 			Blacklist = ["quark:wraith", "minecraft:zombified_piglin"]
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
+
+[Enderman]
+	#Endermen teleport the player near him when can't reach him for a while.
+	"Enable [Experimental] Get Over Here" = false
+
+	#Endermen teleport the player near him when can't reach him for a while.
+	[Enderman."[Experimental] Get Over Here"]
+		#Chance for a enderman to get the Get Over Here AI
+		#Range: 0.0 ~ 1.0
+		"Get Over Here Chance" = 0.15
+
+[Villager]
+
+	#Make villagers fight back
+	[Villager."Villager Attacking"]
+		#If true, when attacked, villagers will call other villagers for help and attack back. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to increase the damage. Base damage is 4.0
+		"Villagers Fight back" = true
+		#Movement speed multiplier when attacking.
+		#Range: 0.0 ~ 4.0
+		"Movement Speed Multiplier" = 0.8
+
+		#Entities that shouldn't be affected by this feature
+		[Villager."Villager Attacking"."Entity Blacklist"]
+			Blacklist = []
 			#If true the list will be treated as a whitelist instead of blacklist
 			"List as Whitelist" = false
 

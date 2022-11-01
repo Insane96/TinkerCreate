@@ -95,7 +95,7 @@
 		"Bonus Experience " = 60.0
 		#If true default mod drops are added to the Wither.
 		#Note that replacing the Wither loot table (e.g. via DataPack) will automatically remove the Injected loot.
-		"Injecet Default Loot" = true
+		"Inject Default Loot" = true
 
 	#Wither will spawn deadly Minions
 	[Wither.Minions]
@@ -280,7 +280,7 @@
 		"Dragon Egg per Player" = true
 		#If true default mod drops are added to the Ender Dragon.
 		#Note that replacing the Ender Dragon loot table (e.g. via DataPack) will automatically remove the Injected loot.
-		"Injecet Default Loot" = true
+		"Inject Default Loot" = true
 
 	#Shulkers that will make you float around.
 	[Dragon.Minions]
@@ -424,5 +424,5 @@
 		"Bonus Experience" = 1.0
 		#If true default mod drops are added to the Elder Guardian.
 		#Note that replacing the Elder Guardian loot table (e.g. via DataPack) will automatically remove the Injected loot.
-		"Injecet Default Loot" = true
+		"Inject Default Loot" = true
 
