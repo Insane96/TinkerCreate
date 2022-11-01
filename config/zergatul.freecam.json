@@ -1,0 +1,7 @@
+{
+  "acceleration": 50.0,
+  "maxSpeed": 20.0,
+  "slowdownFactor": 0.01,
+  "renderHands": false,
+  "disableInteractions": true
+}
