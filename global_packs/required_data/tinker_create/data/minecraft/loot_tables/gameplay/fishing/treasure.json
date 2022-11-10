@@ -12,51 +12,9 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "weight": 10,
+                    "weight": 4,
                     "quality": -1,
                     "name": "minecraft:saddle"
-                },
-                {
-                    "type": "minecraft:item",
-                    "weight": 10,
-                    "name": "minecraft:bow",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_damage",
-                            "damage": {
-                                "type": "minecraft:uniform",
-                                "min": 0,
-                                "max": 0.25
-                            },
-                            "add": false
-                        },
-                        {
-                            "function": "minecraft:enchant_with_levels",
-                            "levels": 30,
-                            "treasure": true
-                        }
-                    ]
-                },
-                {
-                    "type": "minecraft:item",
-                    "weight": 10,
-                    "name": "minecraft:fishing_rod",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_damage",
-                            "damage": {
-                                "type": "minecraft:uniform",
-                                "min": 0,
-                                "max": 0.25
-                            },
-                            "add": false
-                        },
-                        {
-                            "function": "minecraft:enchant_with_levels",
-                            "levels": 30,
-                            "treasure": true
-                        }
-                    ]
                 },
                 {
                     "type": "minecraft:item",
