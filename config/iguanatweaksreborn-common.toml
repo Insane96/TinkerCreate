@@ -237,7 +237,7 @@
 	[Miscellaneous."Tool Stats"]
 		#A list of items which should have their durability changed.
 		#Format is 'modid:itemid,durability'
-		"Tools Durability" = ["minecraft:wooden_sword,10", "minecraft:wooden_pickaxe,10", "minecraft:wooden_shovel,10", "minecraft:wooden_hoe,10", "minecraft:wooden_axe,10", "minecraft:stone_sword,10", "minecraft:stone_pickaxe,10", "minecraft:stone_shovel,10", "minecraft:stone_hoe,10", "minecraft:stone_axe,10", "minecraft:iron_sword,10", "minecraft:iron_pickaxe,10", "minecraft:iron_shovel,10", "minecraft:iron_hoe,10", "minecraft:iron_axe,10", "minecraft:golden_sword,10", "minecraft:golden_pickaxe,10", "minecraft:golden_shovel,10", "minecraft:golden_hoe,10", "minecraft:golden_axe,10", "minecraft:elytra,1044", "minecraft:diamond_sword,10", "minecraft:diamond_pickaxe,10", "minecraft:diamond_axe,10", "minecraft:diamond_shovel,10", "minecraft:diamond_hoe,10", "minecraft:netherite_sword,10", "minecraft:shears,10", "minecraft:netherite_pickaxe,10", "minecraft:netherite_axe,10", "minecraft:netherite_shovel,10", "minecraft:netherite_hoe,10", "minecraft:flint_and_steel,10", "minecraft:leather_helmet,10", "minecraft:leather_chestplate,10", "minecraft:leather_leggings,10", "minecraft:leather_boots,10", "minecraft:chainmail_helmet,10", "minecraft:chainmail_chestplate,10", "minecraft:chainmail_leggings,10", "minecraft:chainmail_boots,10", "minecraft:golden_helmet,10", "minecraft:golden_chestplate,10", "minecraft:golden_leggings,10", "minecraft:golden_boots,10", "minecraft:iron_helmet,10", "minecraft:iron_chestplate,10", "minecraft:iron_leggings,10", "minecraft:iron_boots,10", "minecraft:diamond_helmet,10", "minecraft:diamond_chestplate,10", "minecraft:diamond_leggings,10", "minecraft:diamond_boots,10", "minecraft:netherite_helmet,10", "minecraft:netherite_chestplate,10", "minecraft:netherite_leggings,10", "minecraft:netherite_boots,10", "savage_and_ravage:griefer_helmet,10", "savage_and_ravage:griefer_chestplate,10", "savage_and_ravage:griefer_leggings,10", "savage_and_ravage:griefer_boots,10", "savage_and_ravage:mask_of_dishonesty,10", "savage_and_ravage:cleaver_of_beheading,10"]
+		"Tools Durability" = ["minecraft:wooden_sword,33", "minecraft:wooden_pickaxe,33", "minecraft:wooden_shovel,33", "minecraft:wooden_hoe,33", "minecraft:wooden_axe,33", "minecraft:stone_sword,33", "minecraft:stone_pickaxe,33", "minecraft:stone_shovel,10", "minecraft:stone_hoe,33", "minecraft:stone_axe,33", "minecraft:iron_sword,33", "minecraft:iron_pickaxe,33", "minecraft:iron_shovel,33", "minecraft:iron_hoe,33", "minecraft:iron_axe,33", "minecraft:golden_sword,33", "minecraft:golden_pickaxe,33", "minecraft:golden_shovel,33", "minecraft:golden_hoe,33", "minecraft:golden_axe,33", "minecraft:elytra,104", "minecraft:diamond_sword,33", "minecraft:diamond_pickaxe,33", "minecraft:diamond_axe,33", "minecraft:diamond_shovel,33", "minecraft:diamond_hoe,33", "minecraft:netherite_sword,33", "minecraft:shears,33", "minecraft:netherite_pickaxe,33", "minecraft:netherite_axe,33", "minecraft:netherite_shovel,33", "minecraft:netherite_hoe,33", "minecraft:flint_and_steel,10", "minecraft:leather_helmet,33", "minecraft:leather_chestplate,33", "minecraft:leather_leggings,33", "minecraft:leather_boots,33", "minecraft:chainmail_helmet,33", "minecraft:chainmail_chestplate,33", "minecraft:chainmail_leggings,33", "minecraft:chainmail_boots,33", "minecraft:golden_helmet,33", "minecraft:golden_chestplate,33", "minecraft:golden_leggings,33", "minecraft:golden_boots,33", "minecraft:iron_helmet,33", "minecraft:iron_chestplate,33", "minecraft:iron_leggings,33", "minecraft:iron_boots,33", "minecraft:diamond_helmet,33", "minecraft:diamond_chestplate,33", "minecraft:diamond_leggings,33", "minecraft:diamond_boots,33", "minecraft:netherite_helmet,33", "minecraft:netherite_chestplate,33", "minecraft:netherite_leggings,33", "minecraft:netherite_boots,33", "savage_and_ravage:griefer_helmet,33", "savage_and_ravage:griefer_chestplate,33", "savage_and_ravage:griefer_leggings,33", "savage_and_ravage:griefer_boots,33", "savage_and_ravage:mask_of_dishonesty,33", "savage_and_ravage:cleaver_of_beheading,33"]
 		#A list of items and multipliers that will apply to mining speed when breaking blocks with that item.
 		#Format is 'modid:itemid,efficiency_multiplier'
 		"Tools Efficiency" = ["minecraft:wooden_pickaxe,0", "minecraft:wooden_shovel,0", "minecraft:wooden_hoe,0", "minecraft:wooden_axe,0", "minecraft:stone_pickaxe,0", "minecraft:stone_shovel,0", "minecraft:stone_hoe,0", "minecraft:stone_axe,0", "minecraft:iron_pickaxe,0", "minecraft:iron_shovel,0", "minecraft:iron_hoe,0", "minecraft:iron_axe,0", "minecraft:diamond_pickaxe,0", "minecraft:diamond_shovel,0", "minecraft:diamond_hoe,0", "minecraft:diamond_axe,0", "minecraft:netherite_pickaxe,0", "minecraft:netherite_shovel,0", "minecraft:netherite_hoe,0", "minecraft:netherite_axe,0"]
@@ -308,6 +308,8 @@
 		"Blocks Range" = ["minecraft:iron_block,1", "minecraft:emerald_block,1.2", "minecraft:gold_block,1.8", "minecraft:diamond_block,2.5", "minecraft:netherite_block,4.0", "tconstruct:cobalt_block,2.4", "tconstruct:queens_slime_block,3.0", "tconstruct:hepatizon_block,2.7", "tconstruct:manyullyn_block,3.3"]
 		#Increases the range and damage of the conduit
 		"Better Conduit Protection" = true
+		#If true, pets will also get the beacon effects
+		"Affect Pets" = true
 
 [Mining]
 	#Change all the blocks hardness
@@ -470,7 +472,7 @@
 	#Prevents sleeping if the player is not tired. Tiredness is gained by gaining exhaustion. Allows you to sleep during daytime if too tired
 	"Enable Tiredness" = false
 	#Makes sleeping impossible or possible during day
-	"Enable Sleeping" = true
+	"Enable Sleeping" = false
 
 	#Prevents the player from sleeping if has not enough Hunger and gives him effects on wake up
 	["Sleep & Respawn"."Sleeping Effects"]
@@ -673,7 +675,7 @@
 		#When true, block stacks are affected by both their material type and the block stack multiplier. If false, block stacks will be affected by the multiplier only.
 		"Block Stack Affected by Material" = true
 
-		#Items or tags that will ignore the stack changes. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item or tag. E.g. ["#minecraft:fishes", "minecraft:stone"].
+		#Items that will ignore the stack changes. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item. E.g. ["minecraft:stone"].
 		["Stack Size"."General Stacking".Blacklist]
 			Blacklist = ["minecraft:rotten_flesh"]
 			#If true the list will be treated as a whitelist instead of blacklist
