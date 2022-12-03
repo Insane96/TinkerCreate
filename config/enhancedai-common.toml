@@ -9,7 +9,7 @@
 "Enable Witch" = true
 "Enable Zombie" = true
 "Enable Enderman" = true
-"Enable Villager" = true
+"Enable Villager" = false
 
 [Base]
 	#Change how mobs target players
@@ -545,7 +545,7 @@
 	#Make villagers fight back
 	[Villager."Villager Attacking"]
 		#If true, when attacked, villagers will call other villagers for help and attack back. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to increase the damage. Base damage is 4.0
-		"Villagers Fight back" = false
+		"Villagers Fight back" = true
 		#Movement speed multiplier when attacking.
 		#Range: 0.0 ~ 4.0
 		"Movement Speed Multiplier" = 0.8
