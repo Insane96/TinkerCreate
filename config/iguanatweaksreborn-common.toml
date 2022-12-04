@@ -276,7 +276,7 @@
 	#Small changes to villagers to make them less OP
 	[Miscellaneous."Villager Nerfs"]
 		#If true, villagers will be given 1 trading experience as soon as they choose their job to lock the trades.
-		"Lock Trades" = true
+		"Lock Trades" = false
 		#If true, villagers will always be transformed into Zombies, no matter the difficulty.
 		"Always Convert Zombie" = true
 		#Define a max percentage discount that villagers can give.
