@@ -1,5 +1,5 @@
 {
-    "group": "animals",
+    "entity_tag": "ticreate:animals",
     "attributes": [
         {
             "id": "forge:swim_speed",

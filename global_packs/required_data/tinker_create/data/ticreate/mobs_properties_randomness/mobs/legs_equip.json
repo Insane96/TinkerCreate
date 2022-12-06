@@ -1,7 +1,7 @@
 {
-    "group": "hostiles_with_equip",
+    "entity_tag": "ticreate:hostiles_with_equip",
     "equipment": {
-        "head": {
+        "legs": {
             "override": true,
             "chance": {
                 "value": 0.15,
@@ -32,39 +32,59 @@
             },
             "items": [
                 {
-                    "id": "tconstruct:travelers_helmet",
+                    "id": "tconstruct:travelers_leggings",
                     "weight": 2,
                     "drop_chance": -1,
                     "ticon_modifiers": [
                         {
-                            "id": "tconstruct:respiration",
+                            "id": "tconstruct:leaping",
                             "level": 1,
-                            "chance": 0.33
+                            "chance": 0.30
                         },
                         {
-                            "id": "tconstruct:respiration",
-                            "level": 1,
-                            "chance": 0.33
-                        },
-                        {
-                            "id": "tconstruct:respiration",
-                            "level": 1,
-                            "chance": 0.33
-                        },
-                        {
-                            "id": "tconstruct:sticky",
-                            "level": 1,
-                            "chance": 0.33
-                        },
-                        {
-                            "id": "tconstruct:sticky",
+                            "id": "tconstruct:leaping",
                             "level": 1,
                             "chance": 0.25
                         },
                         {
-                            "id": "tconstruct:sticky",
+                            "id": "tconstruct:speedy",
+                            "level": 1,
+                            "chance": 0.30
+                        },
+                        {
+                            "id": "tconstruct:speedy",
                             "level": 1,
                             "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:speedy",
+                            "level": 1,
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:step_up",
+                            "level": 1,
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:step_up",
+                            "level": 1,
+                            "chance": 0.20
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "level": 1,
+                            "chance": 0.30
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "level": 1,
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "level": 1,
+                            "chance": 0.20
                         },
                         {
                             "id": "tconstruct:diamond",
@@ -134,16 +154,18 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:plate_helmet",
+                    "id": "tconstruct:plate_leggings",
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_modifiers": [
                         {
                             "id": "tconstruct:diamond",
+                            "level": 1,
                             "chance": 0.3
                         },
                         {
                             "id": "tconstruct:netherite",
+                            "level": 1,
                             "chance": 0.15
                         },
                         {

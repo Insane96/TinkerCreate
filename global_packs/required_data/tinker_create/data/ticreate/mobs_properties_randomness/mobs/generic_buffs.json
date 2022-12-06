@@ -1,5 +1,5 @@
 {
-    "group": "hostiles",
+    "entity_tag": "ticreate:hostiles",
     "attributes": [
         {
             "id": "forge:swim_speed",

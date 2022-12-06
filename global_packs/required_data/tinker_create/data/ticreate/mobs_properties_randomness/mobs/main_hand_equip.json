@@ -1,5 +1,5 @@
 {
-    "group": "hostiles_with_equip",
+    "entity_tag": "ticreate:hostiles_with_equip",
     "equipment": {
         "main_hand": {
             "chance": {

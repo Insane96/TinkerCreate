@@ -1,7 +1,7 @@
 {
-    "group": "hostiles_with_equip",
+    "entity_tag": "ticreate:hostiles_with_equip",
     "equipment": {
-        "feets": {
+        "head": {
             "override": true,
             "chance": {
                 "value": 0.15,
@@ -32,57 +32,37 @@
             },
             "items": [
                 {
-                    "id": "tconstruct:travelers_boots",
+                    "id": "tconstruct:travelers_helmet",
                     "weight": 2,
                     "drop_chance": -1,
                     "ticon_modifiers": [
                         {
-                            "id": "tconstruct:bouncy",
+                            "id": "tconstruct:respiration",
                             "level": 1,
-                            "chance": 0.2
+                            "chance": 0.33
                         },
                         {
-                            "id": "tconstruct:frost_walker",
+                            "id": "tconstruct:respiration",
                             "level": 1,
-                            "chance": 0.2
+                            "chance": 0.33
                         },
                         {
-                            "id": "tconstruct:springy",
+                            "id": "tconstruct:respiration",
                             "level": 1,
-                            "chance": 0.25
+                            "chance": 0.33
                         },
                         {
-                            "id": "tconstruct:springy",
+                            "id": "tconstruct:sticky",
                             "level": 1,
-                            "chance": 0.25
+                            "chance": 0.33
                         },
                         {
-                            "id": "tconstruct:springy",
-                            "level": 1,
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:lightspeed",
+                            "id": "tconstruct:sticky",
                             "level": 1,
                             "chance": 0.25
                         },
                         {
-                            "id": "tconstruct:lightspeed",
-                            "level": 1,
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:lightspeed",
-                            "level": 1,
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:feather_falling",
-                            "level": 1,
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:feather_falling",
+                            "id": "tconstruct:sticky",
                             "level": 1,
                             "chance": 0.25
                         },
@@ -154,26 +134,10 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:plate_boots",
+                    "id": "tconstruct:plate_helmet",
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_modifiers": [
-                        {
-                            "id": "tconstruct:feather_falling",
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:feather_falling",
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:feather_falling",
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:feather_falling",
-                            "chance": 0.25
-                        },
                         {
                             "id": "tconstruct:diamond",
                             "chance": 0.3

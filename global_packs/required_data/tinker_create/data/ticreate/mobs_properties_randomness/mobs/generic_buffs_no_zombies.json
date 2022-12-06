@@ -1,5 +1,5 @@
 {
-    "group": "hostiles_no_zombies",
+    "entity_tag": "ticreate:hostiles_no_zombies",
     "attributes": [
         {
             "id": "minecraft:generic.follow_range",

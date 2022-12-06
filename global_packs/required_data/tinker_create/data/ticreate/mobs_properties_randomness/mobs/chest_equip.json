@@ -1,7 +1,7 @@
 {
-    "group": "hostiles_with_equip",
+    "entity_tag": "ticreate:hostiles_with_equip",
     "equipment": {
-        "legs": {
+        "chest": {
             "override": true,
             "chance": {
                 "value": 0.15,
@@ -32,63 +32,40 @@
             },
             "items": [
                 {
-                    "id": "tconstruct:travelers_leggings",
+                    "id": "tconstruct:travelers_chestplate",
                     "weight": 2,
                     "drop_chance": -1,
                     "ticon_modifiers": [
                         {
-                            "id": "tconstruct:leaping",
-                            "level": 1,
+                            "id": "tconstruct:strength",
+                            "chance": 0.2
+                        },
+                        {
+                            "id": "tconstruct:strength",
+                            "chance": 0.2
+                        },
+                        {
+                            "id": "tconstruct:ricochet",
                             "chance": 0.30
                         },
                         {
-                            "id": "tconstruct:leaping",
-                            "level": 1,
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:speedy",
-                            "level": 1,
-                            "chance": 0.30
-                        },
-                        {
-                            "id": "tconstruct:speedy",
-                            "level": 1,
-                            "chance": 0.25
-                        },
-                        {
-                            "id": "tconstruct:speedy",
-                            "level": 1,
-                            "chance": 0.20
-                        },
-                        {
-                            "id": "tconstruct:step_up",
-                            "level": 1,
-                            "chance": 0.20
-                        },
-                        {
-                            "id": "tconstruct:step_up",
-                            "level": 1,
-                            "chance": 0.20
-                        },
-                        {
-                            "id": "tconstruct:knockback_armor",
-                            "level": 1,
-                            "chance": 0.30
-                        },
-                        {
-                            "id": "tconstruct:knockback_armor",
-                            "level": 1,
+                            "id": "tconstruct:ricochet",
                             "chance": 0.25
                         },
                         {
                             "id": "tconstruct:knockback_armor",
-                            "level": 1,
+                            "chance": 0.30
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:knockback_armor",
                             "chance": 0.20
                         },
                         {
                             "id": "tconstruct:diamond",
-                            "level": 1,
                             "chance": 0.3
                         },
                         {
@@ -154,18 +131,16 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:plate_leggings",
+                    "id": "tconstruct:plate_chestplate",
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_modifiers": [
                         {
                             "id": "tconstruct:diamond",
-                            "level": 1,
                             "chance": 0.3
                         },
                         {
                             "id": "tconstruct:netherite",
-                            "level": 1,
                             "chance": 0.15
                         },
                         {

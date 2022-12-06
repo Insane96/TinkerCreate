@@ -1,6 +1,6 @@
 {
     "mob_id": "minecraft:spider",
-    "on_hit_effects": {
+    "events": {
         "on_attack": [{
             "target": "other",
             "potion_effects": [

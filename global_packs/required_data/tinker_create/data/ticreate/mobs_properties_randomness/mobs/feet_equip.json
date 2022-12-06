@@ -1,7 +1,7 @@
 {
-    "group": "hostiles_with_equip",
+    "entity_tag": "ticreate:hostiles_with_equip",
     "equipment": {
-        "chest": {
+        "feet": {
             "override": true,
             "chance": {
                 "value": 0.15,
@@ -32,40 +32,63 @@
             },
             "items": [
                 {
-                    "id": "tconstruct:travelers_chestplate",
+                    "id": "tconstruct:travelers_boots",
                     "weight": 2,
                     "drop_chance": -1,
                     "ticon_modifiers": [
                         {
-                            "id": "tconstruct:strength",
+                            "id": "tconstruct:bouncy",
+                            "level": 1,
                             "chance": 0.2
                         },
                         {
-                            "id": "tconstruct:strength",
+                            "id": "tconstruct:frost_walker",
+                            "level": 1,
                             "chance": 0.2
                         },
                         {
-                            "id": "tconstruct:ricochet",
-                            "chance": 0.30
-                        },
-                        {
-                            "id": "tconstruct:ricochet",
+                            "id": "tconstruct:springy",
+                            "level": 1,
                             "chance": 0.25
                         },
                         {
-                            "id": "tconstruct:knockback_armor",
-                            "chance": 0.30
-                        },
-                        {
-                            "id": "tconstruct:knockback_armor",
+                            "id": "tconstruct:springy",
+                            "level": 1,
                             "chance": 0.25
                         },
                         {
-                            "id": "tconstruct:knockback_armor",
-                            "chance": 0.20
+                            "id": "tconstruct:springy",
+                            "level": 1,
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:lightspeed",
+                            "level": 1,
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:lightspeed",
+                            "level": 1,
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:lightspeed",
+                            "level": 1,
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:feather_falling",
+                            "level": 1,
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:feather_falling",
+                            "level": 1,
+                            "chance": 0.25
                         },
                         {
                             "id": "tconstruct:diamond",
+                            "level": 1,
                             "chance": 0.3
                         },
                         {
@@ -131,10 +154,26 @@
                     ]
                 },
                 {
-                    "id": "tconstruct:plate_chestplate",
+                    "id": "tconstruct:plate_boots",
                     "weight": 1,
                     "drop_chance": -1,
                     "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:feather_falling",
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:feather_falling",
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:feather_falling",
+                            "chance": 0.25
+                        },
+                        {
+                            "id": "tconstruct:feather_falling",
+                            "chance": 0.25
+                        },
                         {
                             "id": "tconstruct:diamond",
                             "chance": 0.3
