@@ -611,7 +611,7 @@
 	#Slower Plants (non-crops) growing
 	[Farming."Plants Growth"]
 		#A list of blocks that will take more time to grow and the multiplier that increases the time to grow. Format is 'modid:blockid,multiplier' or '#modid:blocktag,multiplier'.
-		"Plants Growth Multiplier" = ["minecraft:sugar_cane,2.5", "minecraft:cactus,2.5", "minecraft:cocoa,3.0", "minecraft:nether_wart,3.0", "minecraft:chorus_flower,3.0", "#minecraft:saplings,2.5", "minecraft:melon_stem,3.0", "minecraft:pumpkin_stem,3.0", "minecraft:sweet_berry_bush,2.0", "minecraft:kelp,2.5", "minecraft:bamboo,2.5"]
+		"Plants Growth Multiplier" = ["minecraft:sugar_cane,2.5", "minecraft:cactus,2.5", "minecraft:cocoa,3.0", "minecraft:nether_wart,3.0", "minecraft:chorus_flower,3.0", "#minecraft:saplings,2.5", "minecraft:melon_stem,3.0", "minecraft:pumpkin_stem,3.0", "minecraft:sweet_berry_bush,2.0", "minecraft:kelp,2.5", "minecraft:bamboo,3.5"]
 
 	#Slower Hoes and more fragile
 	[Farming."Hoes Nerfs"]
