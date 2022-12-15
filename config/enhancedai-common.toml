@@ -375,7 +375,7 @@
 	#Witches throw potions farther, faster and more potion types. Also no longer chase player if they can't see him.
 	[Witch."Witch Potion Throwing"]
 		#A list of potions that the witch can throw at enemies. Format is effect_id,duration,amplifier. The potions are applied in order and witches will not throw the same potion if the target has already the effect.
-		"Bad Potions List" = ["minecraft:weakness,1800,0", "minecraft:slowness,1200,1", "minecraft:hunger,600,0", "minecraft:mining_fatigue,600,0", "minecraft:poison,900,0", "minecraft:blindness,120,0", "minecraft:instant_damage,1,0"]
+		"Bad Potions List" = ["minecraft:weakness,900,0", "minecraft:slowness,1200,1", "minecraft:hunger,600,0", "minecraft:mining_fatigue,600,0", "minecraft:poison,900,0", "minecraft:blindness,120,0", "minecraft:instant_damage,1,0"]
 		#A list of potions that the witch can throw at allies (in raids). Format is effect_id,duration,amplifier. The potions are applied in order and witches will not throw the same potion if the target has already the effect.
 		"Good Potions List" = ["minecraft:regeneration,900,0", "minecraft:speed,1800,0", "minecraft:strength,1800,0", "minecraft:instant_health,1,0"]
 		#Chance for the potions thrown by the Witch to be lingering.
