@@ -68,7 +68,10 @@
 		"Maximum Bonus Regeneration" = 2.0
 		#How many half hearts will the Wither regen at max difficulty. This is added to the natural regeneration of the Wither (1 Health per Second).
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Regeneration" = 1.2
+		"Bonus Regeneration" = 2.4
+		#Bonus regeneration will be multiplied by this ratio when the Wither has been hit in the last 3 seconds.
+		#Range: 0.0 ~ 2.0
+		"Bonus Regeneration Ratio When Hit" = 0.6
 
 	#Handles the Damage Resistances and Vulnerabilities
 	[Wither."Resistances & Vulnerabilities"]
@@ -232,13 +235,16 @@
 		"Health Bonus at Max Difficulty" = 200.0
 		#How much health will the Ender Dragon regen at max difficulty (scaling accordingly at lower difficulties). This doesn't affect the health regen given by crystals.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Regeneration" = 0.5
+		"Bonus Regeneration" = 0.8
 		#Maximum bonus regeneration per second given by "Bonus Regeneration". Set to 0 to disable bonus health regeneration. Can be lower than "Bonus Regeneration". This doesn't affect the health regen given by crystals.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Maximum Bonus Regeneration" = 1.0
 		#How much health (when missing 100% health) will the Ender Dragon regen at max difficulty each second whenever she's attached to a Crystal. So if she's missing 30% health, this will be 30% effective. This is added to the normal Crystal regen.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Bonus Crystal Regeneration" = 0.0
+		#Bonus regeneration (also crystal bonus regeneration) will be multiplied by this ratio when the Dragon has been hit in the last 3 seconds.
+		#Range: 0.0 ~ 2.0
+		"Bonus Regeneration Ratio When Hit" = 0.4
 
 	#Makes the dragon hit harder in various different ways
 	[Dragon.Attack]
@@ -329,7 +335,7 @@
 	[Dragon."Resistances & Vulnerabilities"]
 		#Melee Damage reduction at max difficulty while the Ender Dragon is at the center.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Melee Damage reduction while at the center" = 0.45
+		"Melee Damage reduction while at the center" = 0.4
 		#Damage reduction when hit by explosions (firework rockets excluded).
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Explosion Damage reduction" = 0.667
