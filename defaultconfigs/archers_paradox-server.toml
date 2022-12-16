@@ -109,3 +109,10 @@
 	#Range: 0 ~ 16
 	Radius = 4
 
+["Lightning Arrow"]
+	#Adjust this to set the damage for the Lightning Arrow. Vanilla Arrow value is 2.0.
+	#Range: 0.0 ~ 16.0
+	Damage = 1.5
+	#If TRUE, a lightning bolt requires a clear path to the sky.
+	"Require Sky" = true
+
