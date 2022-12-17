@@ -17,7 +17,7 @@
     "scale_pehkui": [
         {
             "scale": {
-                "min": 0.8,
+                "min": 0.9,
                 "max": 1.1
             },
             "scale_types": [
