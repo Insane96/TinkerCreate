@@ -235,7 +235,7 @@
 	"Item Sharing" = false
 	"Inventory Sorting" = true
 	"Hotbar Changer" = false
-	"Expanded Item Interactions" = false
+	"Expanded Item Interactions" = true
 	"Easy Transfering" = false
 	"Chests In Boats" = false
 
@@ -255,7 +255,7 @@
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
 		"Enable Shulker Box Interaction" = true
-		"Enable Lava Interaction" = true
+		"Enable Lava Interaction" = false
 
 	[management.easy_transfering]
 		"Enable Shift Lock" = true
