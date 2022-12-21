@@ -232,7 +232,9 @@
                     "functions": [
                         {
                             "function": "minecraft:set_enchantments",
-                            "enchantments": {},
+                            "enchantments": {
+                                "shulker_enchantments:refill": 1
+                            },
                             "add": true
                         }
                     ]
@@ -244,7 +246,10 @@
                     "functions": [
                         {
                             "function": "minecraft:set_enchantments",
-                            "enchantments": {}
+                            "enchantments": {
+                                "shulker_enchantments:siphon": 1
+                            },
+                            "add": true
                         }
                     ]
                 }
