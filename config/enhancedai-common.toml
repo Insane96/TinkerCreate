@@ -119,9 +119,9 @@
 		#How many ticks pass between shooting fireballs. Vanilla is 6
 		[Blaze."Blaze Attack"."Time Between Fireballs"]
 			#Range: 1.0 ~ 300.0
-			Minimum = 3.0
+			Minimum = 4.0
 			#Range: 1.0 ~ 300.0
-			Maximum = 6.0
+			Maximum = 10.0
 
 		#How many fireballs blazes shoot. Vanilla is 3
 		[Blaze."Blaze Attack"."Fireballs shot"]
