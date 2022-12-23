@@ -20,10 +20,6 @@
 
 	#Changes to the speed on how food is eaten or how items are consumed.
 	[Hunger."Food Consuming"]
-		#Makes potion faster to drink, 1 second instead of 1.6.
-		"Faster Potion Consuming" = true
-		#Makes milk faster to drink, 1 second instead of 1.6.
-		"Faster Milk Consuming" = true
 		#Multiplier for the time taken to eat. Only applied if 'Eating Speed Based Off Food Config' is active.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Eating Time Multiplier" = 0.08
@@ -34,6 +30,8 @@
 		#The minimum speed a food will take to eat. "Fast Food" items have this value halved. Vanilla time is 32/16
 		#Range: > 0
 		"Eating Time Minimum" = 24
+		#Makes potions, milk and honey faster to drink, 1 second instead of 1.6.
+		"Faster Drink Consuming" = true
 
 	#Makes Health regen work differently, like in Combat Test snapshots. Can be customized. Also adds Well Fed and Injured effects.
 	[Hunger."Health Regen"]
