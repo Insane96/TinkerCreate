@@ -21,10 +21,10 @@
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
-    "overlaySquare": true,
+    "overlaySquare": false,
     "flipMainHand": true,
     "color": {
-      "alpha": 0.7,
+      "alpha": 0.75,
       "themes": {
         "jade:waila": {
           "id": "jade:waila",
