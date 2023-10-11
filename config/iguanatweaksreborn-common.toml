@@ -4,7 +4,7 @@
 "Enable Mining" = true
 "Enable Combat" = true
 "Enable Movement" = false
-"Enable Sleep & Respawn" = true
+"Enable Sleep & Respawn" = false
 "Enable Farming" = true
 "Enable Stack Size" = true
 
@@ -16,7 +16,7 @@
 	#Change food's hunger and saturation given, also makes food heal you by a bit. Changing anything requires a Minecraft restart.
 	"Enable Food Hunger" = false
 	#Make the player consume more hunger with different actions
-	"Enable Exhaustion Increase" = false
+	"Enable Exhaustion Increase" = true
 
 	#Changes to the speed on how food is eaten or how items are consumed.
 	[Hunger."Food Consuming"]
@@ -308,10 +308,12 @@
 		"Better Conduit Protection" = true
 		#If true, pets will also get the beacon effects
 		"Affect Pets" = true
+		#If true, with the regeneration effect, the Vigour effect is also applied (reduces hunger consumption).
+		"Vigour with Regeneration" = true
 
 [Mining]
 	#Change all the blocks hardness
-	"Enable Global Hardness" = false
+	"Enable Global Hardness" = true
 	#Change specific blocks hardness as well as black and whitelist. Requires a Minecraft restart if you remove a block from the list.
 	"Enable Custom Hardness" = true
 	#Various mining changes
@@ -321,13 +323,13 @@
 	[Mining."Global Hardness"]
 		#Multiplier applied to the hardness of blocks. E.g. with this set to 3.0 blocks will take 3x more time to break.
 		#Range: 0.0 ~ 128.0
-		"Hardness Multiplier" = 2.5
+		"Hardness Multiplier" = 2
 		#A list of dimensions and their relative block hardness multiplier. Each entry has a a dimension and hardness. This overrides the global multiplier.
 		"Dimension Hardness Multiplier" = ["minecraft:the_nether,4", "minecraft:the_end,4"]
 		#A list of dimensions and their relative block hardness multiplier per blocks below the set Y level. Each entry has a a dimension, a multiplier, a Y Level (where the increased hardness starts applying) and a Y Level cap (where the increase should stop).
 		#E.g. with the default configurations increases the overworld hardness multiplier by 0.025 for each block below the sea level (63); so at Y = 32 you'll get a multiplier of 2.5 (global multiplier) + 0.025 * (63 - 32) = 3.3 hardness multiplier.
 		#NOTE: This multiplier increase applies to blocks in Custom Hardness too.
-		"Depth Multiplier Dimension" = ["minecraft:overworld,0.03,63,-64", "minecraft:overworld,-1.24,5,4"]
+		"Depth Multiplier Dimension" = ["minecraft:overworld,0.04,63,0"]
 
 		#Block ids or tags that will ignore the global and dimensional multipliers. This can be inverted via 'Blacklist as Whitelist'. Each entry has a block or tag and optionally a dimension. E.g. ["minecraft:stone", "minecraft:diamond_block,minecraft:the_nether"]
 		[Mining."Global Hardness"."Block Hardness Blacklist"]
@@ -368,7 +370,7 @@
 	[Combat.Stats]
 		#If true, Swords and Tridents get -1 damage and Axes get -1.5 damage.
 		"Reduce Weapon Damage" = false
-		#If true, Arrows from Bows will no longer randomly crit (basically disables the random bonus damage given when firing a fully charged arrow).
+		#If true, Arrows from Bows and Crossbows will no longer randomly crit (basically disables the random bonus damage given when firing a fully charged arrow).
 		"Disable Arrow Crits" = true
 		#If true, Arrows from Crossbows will no longer deal random damage, but a set amount of damage (about 9 at a medium distance).
 		"Adjust Crossbow Damage" = true
