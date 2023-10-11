@@ -4,13 +4,19 @@
         {
             "id": "forge:swim_speed",
             "modifier_name": "More Swim for Hostiles",
-            "amount": 1.25,
+            "amount": 1.5,
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "More Health for Hostiles",
+            "amount": 0.5,
             "operation": "multiply_base"
         },
         {
             "id": "minecraft:generic.movement_speed",
             "modifier_name": "More Speed for Hostiles",
-            "amount": 0.05,
+            "amount": 0.10,
             "operation": "multiply_base"
         }
     ],

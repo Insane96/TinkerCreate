@@ -13,11 +13,11 @@
 
 [Base]
 	#Change how mobs target players
-	"Enable Targeting" = false
+	"Enable Targeting" = true
 	#Mobs will run away from exploding creepers / TNT
-	"Enable Avoid Explosions" = false
+	"Enable Avoid Explosions" = true
 	#Prevent players from abusing some game mechanics to stop mobs
-	"Enable Anti-Cheese" = false
+	"Enable Anti-Cheese" = true
 	#Makes mobs be able to move in more ways, like climbing or swim.
 	"Enable Movement" = false
 	"Enable Attacking" = false
@@ -42,7 +42,7 @@
 			#Range: 0.0 ~ 128.0
 			Minimum = 32.0
 			#Range: 0.0 ~ 128.0
-			Maximum = 64.0
+			Maximum = 48.0
 
 		#How far away can the mobs see the player even through walls. Setting 'Max' to 0 will make mobs not able to see through walls. I recommend using mods like Mobs Properties Randomness to have more control over the attribute; the attribute name is 'enhancedai:generic.xray_follow_range'.
 		[Base.Targeting."XRay Range Override"]
@@ -459,7 +459,7 @@
 
 [Zombie]
 	#Zombies can mine blocks to reach the target. Uses offhand item to mine
-	"Enable Digger Zombie" = false
+	"Enable Digger Zombie" = true
 	#Let zombies use ender pearls. Either put ender pearls in main or off hand and when far enough from the player they will throw it.
 	"Enable Pearler Zombie" = true
 	#Let zombies use Fishing Rods, reeling players in. Either put a Fishing Rod in main or off hand and when near enough from the player they will throw it.
