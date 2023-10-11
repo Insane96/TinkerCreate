@@ -69,9 +69,11 @@
 		#How many half hearts will the Wither regen at max difficulty. This is added to the natural regeneration of the Wither (1 Health per Second).
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Bonus Regeneration" = 2.4
-		#Bonus regeneration will be multiplied by this ratio when the Wither has been hit in the last 3 seconds.
+		#Bonus regeneration will be multiplied by this ratio when the Wither has been hit in the last 'Bonus Regeneration When Hit Duration' ticks.
 		#Range: 0.0 ~ 2.0
 		"Bonus Regeneration Ratio When Hit" = 0.6
+		#Range: > 0
+		"Bonus Regeneration When Hit Duration" = 60
 
 	#Handles the Damage Resistances and Vulnerabilities
 	[Wither."Resistances & Vulnerabilities"]
@@ -164,10 +166,10 @@
 			#Chance every time the Wither takes damage to start a charge attack. Lower health and more damage taken increases the chance.
 			#This value is the chance at 0% health and when taking 10 damage.
 			#Range: 0.0 ~ 1.0
-			"Charge chance" = 0.06
+			"Charge chance" = 0.05
 			#Base damage of the charge attack. Increased by 'Increased Damage' config option.
-			#Range: 0.0 ~ 50.0
-			"Charge Attack Base Damage" = 16.0
+			#Range: 0.0 ~ 32.0
+			"Charge Attack Base Damage" = 12.0
 
 		[Wither.Attack."Barrage Attack"]
 			#Chance (at max difficulty) every time the Wither takes damage to start a barrage attack. More damage taken increases the chance.
@@ -179,7 +181,7 @@
 			"Min Barrage Duration" = 20
 			#Max time (in ticks) for the duration of the barrage attack. Less health = longer barrage
 			#Range: > 0
-			"Max Barrage Duration" = 150
+			"Max Barrage Duration" = 140
 
 		#Wither Skull Changes
 		[Wither.Attack.Skulls]
@@ -235,16 +237,18 @@
 		"Health Bonus at Max Difficulty" = 200.0
 		#How much health will the Ender Dragon regen at max difficulty (scaling accordingly at lower difficulties). This doesn't affect the health regen given by crystals.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Bonus Regeneration" = 0.8
+		"Bonus Regeneration" = 1.0
 		#Maximum bonus regeneration per second given by "Bonus Regeneration". Set to 0 to disable bonus health regeneration. Can be lower than "Bonus Regeneration". This doesn't affect the health regen given by crystals.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Maximum Bonus Regeneration" = 1.0
 		#How much health (when missing 100% health) will the Ender Dragon regen at max difficulty each second whenever she's attached to a Crystal. So if she's missing 30% health, this will be 30% effective. This is added to the normal Crystal regen.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Bonus Crystal Regeneration" = 0.0
-		#Bonus regeneration (also crystal bonus regeneration) will be multiplied by this ratio when the Dragon has been hit in the last 3 seconds.
+		#Bonus regeneration (also crystal bonus regeneration) will be multiplied by this ratio when the Dragon has been hit in the last 'Bonus Regeneration When Hit Duration' ticks.
 		#Range: 0.0 ~ 2.0
 		"Bonus Regeneration Ratio When Hit" = 0.4
+		#Range: > 0
+		"Bonus Regeneration When Hit Duration" = 85
 
 	#Makes the dragon hit harder in various different ways
 	[Dragon.Attack]
@@ -335,7 +339,7 @@
 	[Dragon."Resistances & Vulnerabilities"]
 		#Melee Damage reduction at max difficulty while the Ender Dragon is at the center.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Melee Damage reduction while at the center" = 0.4
+		"Melee Damage reduction while at the center" = 0.45
 		#Damage reduction when hit by explosions (firework rockets excluded).
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Explosion Damage reduction" = 0.667
