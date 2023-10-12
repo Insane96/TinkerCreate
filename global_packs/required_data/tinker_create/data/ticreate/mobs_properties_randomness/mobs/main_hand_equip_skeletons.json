@@ -10,7 +10,7 @@
                     "drop_chance": -1,
                     "ticon_materials": {
                         "random": {
-                            "max_tier": 4
+                            "max_tier": 1
                         }
                     },
                     "ticon_modifiers": [
@@ -21,6 +21,154 @@
                         {
                             "id": "tconstruct:emerald",
                             "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:power",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.05
+                        }
+                    ]
+                },
+                {
+                    "id": "tinkers_things:shortbow",
+                    "weight": 5,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 1
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:power",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.05
+                        }
+                    ]
+                },
+                {
+                    "id": "tconstruct:longbow",
+                    "weight": 3,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 2
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:power",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.05
+                        }
+                    ]
+                },
+                {
+                    "id": "tinkers_things:shortbow",
+                    "weight": 3,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 2
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:power",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.05
+                        }
+                    ]
+                },
+                {
+                    "id": "tconstruct:longbow",
+                    "weight": 1,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 3
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:power",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.05
+                        }
+                    ]
+                },
+                {
+                    "id": "tinkers_things:shortbow",
+                    "weight": 1,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 3
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:power",
+                            "chance": 0.05
+                        },
+                        {
+                            "id": "tconstruct:fiery",
+                            "chance": 0.05
                         }
                     ]
                 }
