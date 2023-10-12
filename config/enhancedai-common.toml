@@ -21,6 +21,8 @@
 	#Makes mobs be able to move in more ways, like climbing or swim.
 	"Enable Movement" = false
 	"Enable Attacking" = false
+	#Makes mobs be able to use TiCon stuff.
+	"Enable Tinkers Construct" = true
 
 	[Base.Base]
 		#How far away from any player monsters will instantly despawn? Vanilla is 128
