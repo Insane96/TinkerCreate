@@ -1,0 +1,30 @@
+{
+    "entity_tag": "ticreate:skeletons",
+    "equipment": {
+        "main_hand": {
+            "override": true,
+            "items": [
+                {
+                    "id": "tconstruct:longbow",
+                    "weight": 5,
+                    "drop_chance": -1,
+                    "ticon_materials": {
+                        "random": {
+                            "max_tier": 4
+                        }
+                    },
+                    "ticon_modifiers": [
+                        {
+                            "id": "tconstruct:diamond",
+                            "chance": 0.1
+                        },
+                        {
+                            "id": "tconstruct:emerald",
+                            "chance": 0.1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
