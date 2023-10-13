@@ -1,20 +1,22 @@
 {
   "stats": {
     "base": {
-      "tconstruct:durability": 500,
-      "tconstruct:block_amount": 6,
-      "tconstruct:block_angle": 130,
-      "tconstruct:use_item_speed": 0.5
+      "tconstruct:durability": 200.0,
+      "tconstruct:block_amount": 3.0,
+      "tconstruct:block_angle": 90.0,
+      "tconstruct:use_item_speed": 0.8
     }
   },
   "slots": {
-    "upgrades": 2,
-    "defense": 5
+    "upgrades": 3,
+    "defense": 2,
+    "abilities": 1
   },
   "traits": [
-    { "name": "tconstruct:blocking", "level": 1 },
-    { "name": "tconstruct:overcast", "level": 2 },
-    { "name": "tconstruct:overslime", "level": 1 }
+    {
+      "name": "tconstruct:blocking",
+      "level": 1
+    }
   ],
   "modules": {
     "tconstruct:tool_interaction": {

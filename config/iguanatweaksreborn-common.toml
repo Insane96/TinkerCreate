@@ -64,11 +64,11 @@
 		"Hunger Consumption Chance" = 0.0
 		#When eating you'll get healed by this percentage of (hunger + saturation) restored.
 		#Range: 0.0 ~ 128.0
-		"Food Heal Multiplier" = 0.075
+		"Food Heal Multiplier" = 0.0
 
 		[Hunger."Health Regen".Effects]
 			#Set to true to enable Well Fed, a new effect that speeds up health regen and is applied whenever the player eats.
-			"Enable Well Fed" = true
+			"Enable Well Fed" = false
 			#Multiplies the base duration of Well Fed by this value. Base duration is 1 second per food effectiveness (hunger + saturation).
 			#Range: 0.0 ~ 128.0
 			"Well Fed Duration Multiplier" = 1.0
@@ -76,7 +76,7 @@
 			#Range: 0.0 ~ 10.0
 			"Well Fed Effectiveness" = 0.25
 			#Set to true to enable Injured, a new effect that slows down health regen and is applied whenever the player is damaged. The effect slows down health regen by 20% per level.
-			"Enable Injured" = true
+			"Enable Injured" = false
 			#Multiplies the base duration of Injured by this value. Base duration is 1 second per point of damage taken.
 			#Range: 0.0 ~ 128.0
 			"Injured Duration Multiplier" = 1.0
@@ -323,7 +323,7 @@
 	[Mining."Global Hardness"]
 		#Multiplier applied to the hardness of blocks. E.g. with this set to 3.0 blocks will take 3x more time to break.
 		#Range: 0.0 ~ 128.0
-		"Hardness Multiplier" = 2
+		"Hardness Multiplier" = 1.5
 		#A list of dimensions and their relative block hardness multiplier. Each entry has a a dimension and hardness. This overrides the global multiplier.
 		"Dimension Hardness Multiplier" = ["minecraft:the_nether,4", "minecraft:the_end,4"]
 		#A list of dimensions and their relative block hardness multiplier per blocks below the set Y level. Each entry has a a dimension, a multiplier, a Y Level (where the increased hardness starts applying) and a Y Level cap (where the increase should stop).
