@@ -43,14 +43,14 @@
 		#How far away can the mobs see the player. This overrides the vanilla value (16 for most mobs). Setting 'Max' to 0 will leave the follow range as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute.
 		[Base.Targeting."Follow Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 32.0
+			Minimum = 24.0
 			#Range: 0.0 ~ 128.0
 			Maximum = 48.0
 
 		#How far away can the mobs see the player even through walls. Setting 'Max' to 0 will make mobs not able to see through walls. I recommend using mods like Mobs Properties Randomness to have more control over the attribute; the attribute name is 'enhancedai:generic.xray_follow_range'.
 		[Base.Targeting."XRay Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 12.0
+			Minimum = 16.0
 			#Range: 0.0 ~ 128.0
 			Maximum = 24.0
 
