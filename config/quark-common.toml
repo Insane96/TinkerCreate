@@ -420,7 +420,7 @@
 		#Can you craft a minecart around blocks which can be placed inside?
 		"Enable Minecarts" = true
 		#Can you craft four chests at once using logs?
-		"Logs To Chests" = true
+		"Logs To Chests" = false
 		#Can Coral be crafted into dye?
 		"Coral To Dye" = true
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
