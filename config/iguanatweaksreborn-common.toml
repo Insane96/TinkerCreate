@@ -323,13 +323,13 @@
 	[Mining."Global Hardness"]
 		#Multiplier applied to the hardness of blocks. E.g. with this set to 3.0 blocks will take 3x more time to break.
 		#Range: 0.0 ~ 128.0
-		"Hardness Multiplier" = 1.5
+		"Hardness Multiplier" = 1
 		#A list of dimensions and their relative block hardness multiplier. Each entry has a a dimension and hardness. This overrides the global multiplier.
-		"Dimension Hardness Multiplier" = ["minecraft:the_nether,4", "minecraft:the_end,4"]
+		"Dimension Hardness Multiplier" = ["minecraft:the_nether,2", "minecraft:the_end,2"]
 		#A list of dimensions and their relative block hardness multiplier per blocks below the set Y level. Each entry has a a dimension, a multiplier, a Y Level (where the increased hardness starts applying) and a Y Level cap (where the increase should stop).
 		#E.g. with the default configurations increases the overworld hardness multiplier by 0.025 for each block below the sea level (63); so at Y = 32 you'll get a multiplier of 2.5 (global multiplier) + 0.025 * (63 - 32) = 3.3 hardness multiplier.
 		#NOTE: This multiplier increase applies to blocks in Custom Hardness too.
-		"Depth Multiplier Dimension" = ["minecraft:overworld,0.04,63,0"]
+		"Depth Multiplier Dimension" = ["minecraft:overworld,0.05,63,3"]
 
 		#Block ids or tags that will ignore the global and dimensional multipliers. This can be inverted via 'Blacklist as Whitelist'. Each entry has a block or tag and optionally a dimension. E.g. ["minecraft:stone", "minecraft:diamond_block,minecraft:the_nether"]
 		[Mining."Global Hardness"."Block Hardness Blacklist"]
