@@ -792,7 +792,7 @@
 			#Range: 0.0 ~ 1.0
 			Chance = 0.02
 			#If true, Angry Creeper emits particles
-			Particles = true
+			Particles = false
 			#The special sound effect that the Angry Creeper plays
 			#Allowed Values: NONE, CENA, WTF_BOOM, OLD_EXPLOSION
 			Sounds = "CENA"
