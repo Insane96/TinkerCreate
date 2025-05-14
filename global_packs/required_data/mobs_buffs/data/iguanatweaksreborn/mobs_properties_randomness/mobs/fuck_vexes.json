@@ -1,0 +1,11 @@
+{
+    "target": "minecraft:vex",
+    "attributes": [
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "ISO mobs_buffs",
+            "amount": -10,
+            "operation": "addition"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "forge:conditional",
+    "recipes": [
+        {
+            "conditions": [
+                {
+                    "type": "forge:not",
+                    "value": {
+                        "type": "forge:mod_loaded",
+                        "modid": "caverns_and_chasms"
+                    }
+                }
+            ],
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "category": "equipment",
+                "key": {
+                    "f": {
+                        "item": "tconstruct:slimesteel_ingot"
+                    },
+                    "i": {
+                        "item": "minecraft:iron_ingot"
+                    },
+                    "r": {
+                        "item": "minecraft:redstone"
+                    }
+                },
+                "pattern": [
+                    " f ",
+                    "frf",
+                    " f "
+                ],
+                "result": {
+                    "item": "iguanatweaksexpanded:altimeter"
+                },
+                "show_notification": true
+            }
+        }
+    ]
+}

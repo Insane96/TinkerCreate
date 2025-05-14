@@ -1,0 +1,33 @@
+{
+    "filters": [
+      "/rotten_flesh/",
+      "/placeable_item/",
+      "/deepslate:deepslate_sword/",
+      "/deepslate:deepslate_pickaxe/",
+      "/deepslate:deepslate_axe/",
+      "/deepslate:deepslate_shovel/",
+      "/deepslate:deepslate_hoe/",
+      "/deepslate:blackstone_sword/",
+      "/deepslate:blackstone_pickaxe/",
+      "/deepslate:blackstone_axe/",
+      "/deepslate:blackstone_shovel/",
+      "/deepslate:blackstone_hoe/",
+
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_shovel",
+      "minecraft:stone_hoe",
+      "minecraft:stone_sword",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_hoe",
+      "minecraft:wooden_sword",
+      "/iguanatweaksexpanded:*_hammer/",
+
+      "woodworks:sawmill",
+      "/citadel:/",
+      "/waystones:/"
+    ],
+    "disable": true
+  }

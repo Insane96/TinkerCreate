@@ -1,0 +1,31 @@
+{
+    "target": "#iguanatweaksreborn:mobs_no_bosses",
+    "attributes": [
+        {
+            "id": "enhancedai:generic.xray_follow_range",
+            "chance": {
+                "value": 0.5
+            },
+            "modifier_name": "More XRay Range for Mobs",
+            "amount": {
+                "min": 8,
+                "max": 24,
+                "condition_modifier": {
+                    "operation": "multiply",
+                    "condition": {
+                        "spawner_behaviour": "spawner_only"
+                    },
+                    "amount": 0.75
+                }
+            },
+            "operation": "addition"
+        },
+        {
+            "id": "forge:swim_speed",
+            "modifier_name": "More Swim Speed for Mobs",
+            "amount": 2,
+            "operation": "multiply_base"
+        }
+    ],
+    "priority": 1
+}

@@ -1,0 +1,12 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "minecraft:tall_grass"
+        }
+    ],
+    "processingTime": 100,
+    "results": [
+
+    ]
+}
