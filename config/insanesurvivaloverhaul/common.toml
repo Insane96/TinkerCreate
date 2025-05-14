@@ -383,7 +383,7 @@
 		"Prevent Spawn Point" = false
 		#Tiredness required to get the Tired effect and be able to sleep.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		"Tiredness for effect" = 500.0
+		"Tiredness for effect" = 400.0
 		#Every this Tiredness above 'Tiredness for effect' will add a new level of Tired.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Tiredness per level" = 250.0
