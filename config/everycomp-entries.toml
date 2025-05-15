@@ -120,6 +120,9 @@
 			window = true
 			window_pane = true
 
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
 	[entries.leaves_type]
 
 		[entries.leaves_type.quark]

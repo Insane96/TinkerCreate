@@ -1,1 +1,0 @@
-wild crops don't mine faster with kama 
