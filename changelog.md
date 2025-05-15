@@ -1,3 +1,11 @@
+## TODO
+* Builders' construct book entry
+
+## Upcoming
+
+## 3.4.1
+* Enhanced AI crash fix 
+
 ## 3.4.0
 This changelog is not exhaustive, some stuff is missing.
 * Added farmer's delight
