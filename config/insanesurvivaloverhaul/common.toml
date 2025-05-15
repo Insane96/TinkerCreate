@@ -834,7 +834,7 @@
 		"Mining speed modifier" = 0.9
 		#Multiplier applied to tinkers construct heads and modifiers attack damage. This also applies to additive modifiers
 		#Range: 0.0 ~ 128.0
-		"Damage modifier" = 0.6
+		"Damage modifier" = 0.5
 		#Multiplier applied to tinkers construct heads and modifiers durability. This also applies to additive modifiers
 		#Range: 0.0 ~ 128.0
 		"Durability modifier" = 0.7
