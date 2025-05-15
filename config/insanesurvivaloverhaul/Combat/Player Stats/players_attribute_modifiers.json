@@ -1,16 +1,23 @@
 [
   {
     "uuid": "bae34f6a-c58e-4622-b2ab-f1b89b73b781",
-    "name": "Player Stats\u0027 Block reach modifier",
+    "name": "Player Attributes Block reach modifier",
     "attribute": "forge:block_reach",
     "amount": -1.0,
     "operation": "addition"
   },
   {
     "uuid": "bae34f6a-c58e-4622-b2ab-f1b89b73b781",
-    "name": "Player Stats\u0027 Entity reach modifier",
+    "name": "Player Attributes Entity reach modifier",
     "attribute": "forge:entity_reach",
     "amount": -0.5,
+    "operation": "addition"
+  },
+  {
+    "uuid": "bae34f6a-c58e-4622-b2ab-f1b89b73b781",
+    "name": "Player Attributes Base Crit",
+    "attribute": "iguanatweaksreborn:critical_chance",
+    "amount": 0.1,
     "operation": "addition"
   }
 ]
