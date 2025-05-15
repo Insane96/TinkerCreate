@@ -3,6 +3,7 @@
         "minecraft:witch",
         "minecraft:enderman",
         "minecraft:trader_llama",
-        "minecraft:llama"
+        "minecraft:llama",
+        "minecraft:drowned"
     ]
 }
