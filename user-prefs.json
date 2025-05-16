@@ -394,6 +394,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\insanesurvivaloverhaul\\World\\Spawners\\fixed_spawners_spawnable.json",
+        "isSelected": true
+      },
+      {
         "path": "config\\insanesurvivaloverhaul\\World\\Spawners\\spawners.json",
         "isSelected": true
       },
@@ -1130,10 +1134,6 @@
         "isSelected": false
       },
       {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json~",
-        "isSelected": false
-      },
-      {
         "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\movement_speed_bonus.json",
         "isSelected": false
       },
@@ -1375,6 +1375,18 @@
       },
       {
         "path": "global_packs\\required_data\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set\\major_structures.json~",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\recipes",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\recipes\\cooking_pot.json",
         "isSelected": false
       },
       {
@@ -1694,6 +1706,22 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-15-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-3.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\latest.log",
         "isSelected": false
       },
@@ -1710,11 +1738,47 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_road_0_cd59cca472.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_road_1_fc7cf9b339.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_road_entrance_05f8cd9492.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_temple_0_509ef07905.nbt",
         "isSelected": false
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_temple_1_e05cb017ec.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_temple_deco_0_3150906bac.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_temple_deco_1_061faa8196.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_abandoned_temple_deco_2_4877d9540f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_illusioner_normal_0_6f23502f1c.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_skeleton_armored_0_0b114af481.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_skeleton_armored_1_496ef0a3e5.nbt",
         "isSelected": false
       },
       {
@@ -1827,6 +1891,14 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_base_0_f4fd272fc0.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_base_2_fef74d5a67.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_base_3_1fb1f3a011.nbt",
         "isSelected": false
       },
       {
@@ -1963,6 +2035,26 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_wishing_well_wishing_well_0_36e5928c5f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_wishing_well_wishing_well_effect_0_speed_08c7dbcac4.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_wishing_well_wishing_well_effect_1_regen_b0fbd23a1f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_wishing_well_wishing_well_effect_2_wither_90dec482e3.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_wishing_well_wishing_well_effect_3_resistance_31d70c13be.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_wishing_well_wishing_well_effect_4_haste_613f92c92d.nbt",
         "isSelected": false
       },
       {
@@ -2138,7 +2230,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\InsaneSurvivalOverhaul-4.12.0.jar",
+        "path": "mods\\InsaneSurvivalOverhaul-4.12.1.jar",
         "isSelected": true
       },
       {
@@ -2194,7 +2286,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\modernfix-forge-5.21.0+mc1.20.1.jar",
+        "path": "mods\\modernfix-forge-5.22.0+mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -2446,6 +2538,10 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\data\\chunks.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\data\\iguanatweaksreborn_weather.dat",
         "isSelected": false
       },
@@ -2546,11 +2642,19 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\entities\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\entities\\r.0.-1.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.1.mca",
         "isSelected": false
       },
       {
@@ -2578,11 +2682,19 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\poi\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\poi\\r.0.-1.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.1.mca",
         "isSelected": false
       },
       {
@@ -2599,6 +2711,14 @@
       },
       {
         "path": "saves\\New World\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.0.mca",
         "isSelected": false
       },
       {
@@ -2619,6 +2739,10 @@
       },
       {
         "path": "saves\\New World\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.1.mca",
         "isSelected": false
       },
       {

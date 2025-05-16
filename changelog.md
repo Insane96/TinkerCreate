@@ -1,7 +1,7 @@
 ## TODO
 * Builders' construct book entry
 
-## Upcoming
+## 3.4.2
 * Lowered chance for mobs to drop armor
 * Mobs now have lower chance to have xray vision
 * Armor toughness is now converted to regenerating absorption
