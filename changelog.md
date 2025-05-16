@@ -2,13 +2,13 @@
 * Builders' construct book entry
 * season spawning doesn work on login?
 * bee nest should fall
-* decrease equipment drop
-* armor toughness
 
 ## Upcoming
 * Lowered chance for mobs to drop armor
 * Mobs now have lower chance to have xray vision
+* Armor toughness is now converted to regenerating absorption
 * Fixed cooking pot uncraftable
+* Fixed curses not being disabled
 
 ## 3.4.1
 * Enhanced AI crash fix 
