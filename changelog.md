@@ -1,7 +1,5 @@
 ## TODO
 * Builders' construct book entry
-* season spawning doesn work on login?
-* bee nest should fall
 
 ## Upcoming
 * Lowered chance for mobs to drop armor
@@ -9,6 +7,8 @@
 * Armor toughness is now converted to regenerating absorption
 * Fixed cooking pot uncraftable
 * Fixed curses not being disabled
+* Removed drowned speed nerf
+* Fixed mobs spawning with durium stuff
 
 ## 3.4.1
 * Enhanced AI crash fix 

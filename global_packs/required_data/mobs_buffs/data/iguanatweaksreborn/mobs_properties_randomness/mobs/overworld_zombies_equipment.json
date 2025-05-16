@@ -52,10 +52,6 @@
                     "weight": 10
                 },
                 {
-                    "id": "iguanatweaksexpanded:durium_sword",
-                    "weight": 10
-                },
-                {
                     "id": "minecraft:golden_sword",
                     "weight": 30
                 },
@@ -77,10 +73,6 @@
                 },
                 {
                     "id": "minecraft:iron_axe",
-                    "weight": 10
-                },
-                {
-                    "id": "iguanatweaksexpanded:durium_axe",
                     "weight": 10
                 },
                 {
@@ -108,10 +100,6 @@
                     "weight": 10
                 },
                 {
-                    "id": "iguanatweaksexpanded:durium_pickaxe",
-                    "weight": 10
-                },
-                {
                     "id": "minecraft:golden_pickaxe",
                     "weight": 30
                 },
@@ -136,10 +124,6 @@
                     "weight": 10
                 },
                 {
-                    "id": "iguanatweaksexpanded:durium_shovel",
-                    "weight": 10
-                },
-                {
                     "id": "minecraft:golden_shovel",
                     "weight": 30
                 },
@@ -161,10 +145,6 @@
                 },
                 {
                     "id": "minecraft:iron_hoe",
-                    "weight": 10
-                },
-                {
-                    "id": "iguanatweaksexpanded:durium_hoe",
                     "weight": 10
                 },
                 {
@@ -299,10 +279,6 @@
             },
             {
                 "id": "iguanatweaksreborn:iron_armor",
-                "weight": 8
-            },
-            {
-                "id": "iguanatweaksreborn:durium_armor",
                 "weight": 8
             },
             {
