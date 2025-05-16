@@ -174,8 +174,9 @@
 			Maximum = 1600.0
 
 		[World.Spawners."Disable spawners"]
+			#If true, spawners will be disabled after spawning a certain amount of mobs.
 			Enabled = false
-			#The minimum amount of spawnable mobs (when the spawner is basically in the same position as the world spawn). The amount of spawnable mobs before deactivating is equal to the distance divided by 8 (plus this value). E.g. At 160 blocks from spawn the max spawnable mobs will be 160 / 8 + 25 = 20 + 25 = 55
+			#The minimum amount of spawnable mobs (when the spawner is basically in the same position as the world spawn). The amount of spawnable mobs before deactivating is equal to the distance divided by 8 (plus this value). E.g. At 160 blocks from spawn the max spawnable mobs will be 160 / 8 + 20 = 20 + 20 = 40
 			#Range: > 0
 			"Minimum Spawnable Mobs" = 20
 			#This multiplier increases the max mobs spawned.
@@ -208,6 +209,20 @@
 				Minimum = 150.0
 				#Range: 0.0 ~ 1.7976931348623157E308
 				Maximum = 200.0
+
+		[World.Spawners."Reactivated spawners"]
+			#The range of a player nearby in which the spawner will be active. Setting to -1 should keep the spawners always active (untested) as long as the chunk is loaded (hostiles will still despawn in a 128 block radius).
+			#Range: > -1
+			"Player range" = 128
+			#Reactivated spawners spawn mobs no matter the light level.
+			"Ignore light" = false
+
+			#How many ticks will the spawner try to summon mobs.
+			[World.Spawners."Reactivated spawners".Delay]
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				Minimum = 3600.0
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				Maximum = 6000.0
 
 	#Change a few things relative to Serene Seasons
 	[World.Seasons]
@@ -570,7 +585,7 @@
 	[Mobs.Equipment]
 		#Set the drop chance for mobs equipment.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		"Drop chance" = 0.5
+		"Drop chance" = 0.2
 		#Set the drop chance for mobs equipment when spawned from spawners.
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 		"Drop chance from Spawners" = 0.2
@@ -824,7 +839,7 @@
 		"Force Reload world Data Packs" = false
 		#Integrates the mod with Crate. Alters ore generation.
 		"Create integration" = true
-		#Integrates the mod with Tinker's Construct. Disables vanilla items.
+		#Integrates the mod with Tinker's Construct. Disables vanilla items. Changes some stats and adds modifiers
 		"Tinkers' Construct integration" = true
 
 	#Various data packs that can be enabled/disabled
