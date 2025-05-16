@@ -1401,7 +1401,7 @@
 	#Adds a new attribute to add regenerating absorption hearts to the player.
 	"Enable Regenerating Absorption" = true
 	#Armor gives regenerating absorption and regen absorption speed instead of armor and toughness
-	"Enable Absorption Armor" = false
+	"Enable Absorption Armor" = true
 	#This feature disables itself if Shields+ is installed
 	"Enable Shields" = true
 
