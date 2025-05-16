@@ -1,7 +1,14 @@
 ## TODO
 * Builders' construct book entry
+* season spawning doesn work on login?
+* bee nest should fall
+* decrease equipment drop
+* armor toughness
 
 ## Upcoming
+* Lowered chance for mobs to drop armor
+* Mobs now have lower chance to have xray vision
+* Fixed cooking pot uncraftable
 
 ## 3.4.1
 * Enhanced AI crash fix 
