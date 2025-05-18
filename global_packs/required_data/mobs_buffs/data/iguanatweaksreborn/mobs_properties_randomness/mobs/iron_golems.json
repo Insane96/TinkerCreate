@@ -4,7 +4,19 @@
         {
             "id": "minecraft:generic.follow_range",
             "modifier_name": "More Sight for Iron Golems",
+            "amount": 2,
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.attack_speed",
+            "modifier_name": "More Damage for Iron Golems",
             "amount": 1,
+            "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "More Speed for Iron Golems",
+            "amount": 0.25,
             "operation": "multiply_base"
         }
     ]

@@ -1,8 +1,10 @@
 ## TODO
 * Builders' construct book entry
+* speed up and buff iron golem damage
 
 ## Upcoming
 * Increased arrows damage
+* Iron golems are now faster at moving and attacking
 
 ## 3.4.3
 * Daggers now count as knives for harvesting straw from grass
