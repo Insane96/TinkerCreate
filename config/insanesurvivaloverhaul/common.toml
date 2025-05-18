@@ -1399,7 +1399,7 @@
 		"Float point damage" = true
 		#Multiplies arrow's damage by this value. (this doesn't affect mobs arrows)
 		#Range: 0.0 ~ 10.0
-		"Damage Multiplier" = 0.65
+		"Damage Multiplier" = 0.8
 		#Changes bows accuracy. Vanilla is 1.0
 		#Range: 0.0 ~ 10.0
 		"Bow Inaccuracy" = 1.0

@@ -986,6 +986,14 @@
         "isSelected": true
       },
       {
+        "path": "crash-reports",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-05-18_11.53.51-client.txt",
+        "isSelected": false
+      },
+      {
         "path": "datapacks",
         "isSelected": false
       },
@@ -1131,6 +1139,10 @@
       },
       {
         "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json~",
         "isSelected": false
       },
       {
@@ -1387,6 +1399,18 @@
       },
       {
         "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\recipes\\cooking_pot.json",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\tags",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\tags\\items",
+        "isSelected": false
+      },
+      {
+        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\tags\\items\\straw_harvesters.json",
         "isSelected": false
       },
       {
@@ -1719,6 +1743,22 @@
       },
       {
         "path": "logs\\2025-05-16-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-16-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-18-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-18-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-18-3.log.gz",
         "isSelected": false
       },
       {
@@ -2226,11 +2266,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\InsaneSurvivalExtra-1.23.9.jar",
+        "path": "mods\\InsaneSurvivalExtra-1.23.10.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\InsaneSurvivalOverhaul-4.12.1.jar",
+        "path": "mods\\InsaneSurvivalOverhaul-4.12.2.jar",
         "isSelected": true
       },
       {
@@ -2298,7 +2338,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\nohunger-1.1.0.jar",
+        "path": "mods\\nohunger-1.1.2.jar",
         "isSelected": true
       },
       {
@@ -2378,11 +2418,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Stellar View-1.20.1-0.4.5.jar",
+        "path": "mods\\Stellar View-1.20.1-0.4.6-Forge.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\stonezone-1.20-2.8.3.jar",
+        "path": "mods\\stonezone-1.20-2.8.4.jar",
         "isSelected": true
       },
       {
@@ -2507,294 +2547,6 @@
       },
       {
         "path": "saves",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\advancements",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\advancements\\9a8b1833-adba-418a-bde6-07c0e8572120.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\betterdeserttemples",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\blueprint_storage.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\capabilities.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\chunks.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\iguanatweaksreborn_weather.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\mfix_strongholds.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\random_sequences.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\sandstorms.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\scoreboard.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\data\\seasons.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\datapacks",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\betterdeserttemples",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\capabilities.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\raids.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\sandstorms.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM-1\\data\\seasons.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\betterdeserttemples",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data\\capabilities.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data\\raids_end.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data\\sandstorms.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\DIM1\\data\\seasons.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\entities\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata\\9a8b1833-adba-418a-bde6-07c0e8572120.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\playerdata\\9a8b1833-adba-418a-bde6-07c0e8572120.dat_old",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\poi\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-2.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.-2.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.0.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.0.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.0.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.-1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.0.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\region\\r.1.1.mca",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\create-server.toml",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\forge-server.toml",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\jei-server.toml",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\mantle-server.toml",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\pehkui-server.toml",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\serverconfig\\timecontrol-server.toml",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\stats",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\stats\\9a8b1833-adba-418a-bde6-07c0e8572120.json",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\icon.png",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\level.dat",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\level.dat_old",
-        "isSelected": false
-      },
-      {
-        "path": "saves\\New World\\session.lock",
         "isSelected": false
       },
       {

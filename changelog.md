@@ -1,6 +1,9 @@
 ## TODO
 * Builders' construct book entry
 
+## Upcoming
+* Increased arrows damage
+
 ## 3.4.3
 * Daggers now count as knives for harvesting straw from grass
 * Mobs health has been doubled
