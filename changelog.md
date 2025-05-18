@@ -1,14 +1,10 @@
 ## TODO
 * Builders' construct book entry
-* Pyke don't work
-* can't cut leather armor
-* can craft iron armor
-* remove tinker integration
-* food tooltip threshold
-* crying obsidian info for portal
 
-## Upcoming
+## 3.4.3
 * Daggers now count as knives for harvesting straw from grass
+* Mobs health has been doubled
+  * This is due to nerfs to TCon tools have been removed
 
 ## 3.4.2
 * Lowered chance for mobs to drop armor

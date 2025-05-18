@@ -31,6 +31,12 @@
             "modifier_name": "More Swim Speed for Mobs",
             "amount": 2,
             "operation": "multiply_base"
+        },
+        {
+            "id": "minecraft:generic.max_health",
+            "modifier_name": "More Health for Mobs",
+            "amount": 1,
+            "operation": "multiply_base"
         }
     ],
     "priority": 1

@@ -28,22 +28,22 @@
 
 [Mining]
 	#Add Soul Steel, a new metal made by alloying Iron, Soul Sand and Hellish Coal. Disabling this will disable ore generation and items in the creative inventory.
-	"Enable Soul Steel" = true
+	"Enable Soul Steel" = false
 	#Add Durium, a new metal made by alloying Durium Scrap (found as scrap pieces in ores in the Overworld) and can be used to upgrade Iron Equipment. Disabling this will disable ore generation and items in the creative inventory.
-	"Enable Durium" = true
+	"Enable Durium" = false
 	#Add repair kits, making you able to repair items in the crafting grid
-	"Enable Repair Kits" = true
+	"Enable Repair Kits" = false
 	#Add Quaron, a new metal made by alloying Iron and Amethyst. Disabling this will disable ore generation and items in the creative inventory.
-	"Enable Quaron" = true
+	"Enable Quaron" = false
 	#Enables a Data Pack that makes Beeg Ore Veins generate. On the surface of the overworld you can now find ore rocks. These indicate that underground there's a huge vein of that ore
 	"Enable Beeg Ore Veins" = true
 	#Add a new Nether gem which makes lets you go fast (KEEp GOing). Disabling this will disable ore generation and items in the creative inventory.
-	"Enable Keego" = true
+	"Enable Keego" = false
 	#Adds mining charge
-	"Enable Mining Charge" = true
-	"Enable Forging" = true
+	"Enable Mining Charge" = false
+	"Enable Forging" = false
 	#Add new multi block furnaces
-	"Enable Multi Block Furnaces" = true
+	"Enable Multi Block Furnaces" = false
 
 	[Mining.Forging]
 		#Enchanted items can't be forged

@@ -676,8 +676,6 @@
 	"Enable Beacon & Conduit" = true
 	#Various data packs that can be enabled/disabled
 	"Enable Data Packs & Integration" = true
-	#Various data packs that can be enabled/disabled
-	"Enable Tinker Integration" = true
 
 	#Various stuff that doesn't fit in any other Feature.
 	[Miscellaneous.Tweaks]
@@ -841,18 +839,6 @@
 		"Create integration" = true
 		#Integrates the mod with Tinker's Construct. Disables vanilla items. Changes some stats and adds modifiers
 		"Tinkers' Construct integration" = true
-
-	#Various data packs that can be enabled/disabled
-	[Miscellaneous."Tinker Integration"]
-		#Multiplier applied to tinkers construct heads and modifiers mining speed. This also applies to additive modifiers
-		#Range: 0.0 ~ 128.0
-		"Mining speed modifier" = 0.9
-		#Multiplier applied to tinkers construct heads and modifiers attack damage. This also applies to additive modifiers
-		#Range: 0.0 ~ 128.0
-		"Damage modifier" = 0.5
-		#Multiplier applied to tinkers construct heads and modifiers durability. This also applies to additive modifiers
-		#Range: 0.0 ~ 128.0
-		"Durability modifier" = 0.7
 
 [Mining]
 	#Various changes for different materials and ores.
