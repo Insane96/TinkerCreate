@@ -1,10 +1,10 @@
 ## TODO
-* Builders' construct book entry
-* speed up and buff iron golem damage
+* vigour modifier
 
-## Upcoming
+## 3.4.4
 * Increased arrows damage
 * Iron golems are now faster at moving and attacking
+* Stamina is now higher but reduced by armor
 
 ## 3.4.3
 * Daggers now count as knives for harvesting straw from grass

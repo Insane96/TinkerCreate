@@ -498,7 +498,9 @@
 
 	#Slowdown based off the terrain entities walking on. Custom Terrain Slowdown are controlled via json in this feature's folder
 	[Movement."Terrain Slowdown"]
-		"Frost walker reduces Ice slowdown" = true
+		"Frost walker reduces ice slowdown" = true
+		#If true, snow slowdown is ignored if wearing leather boots (or any item in iguanatweaksreborn:snow_slowdown_ignore item tag)
+		"Snow slowdown ignored with leather boots" = true
 
 	#Players's slowed down for a brief moment when hit.
 	[Movement.Tagging]
@@ -1205,7 +1207,7 @@
 		#Set to empty to disable.
 		#This is evaluated with EvalEx https://ezylang.github.io/EvalEx/concepts/parsing_evaluation.html.
 		#Incompatible with Allurement's 'Remove level Scaling' or any other mod that does something similar
-		"Level up formula" = "50"
+		"Level up formula" = "40"
 		#On death, players will drop this percentage of experience instead of max 7 levels. Setting to -1 will disable this.
 		#Due to Minecraft limitations this is incompatible with other mods that change the level scaling (e.g. Allurement's 'Remove level Scaling').
 		#Range: -1.0 ~ 1.0

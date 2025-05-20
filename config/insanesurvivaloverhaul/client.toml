@@ -38,6 +38,14 @@
 		#Range: 0.0 ~ 1.0
 		"Nether Fog Ratio" = 0.75
 
+		[Client.Fog.Overworld]
+			#Changes fog to start closer to the player. E.g. A value of 0.5 makes fog start at half the render distance. Vanilla is 1, Pre-1.18.1 was 0.75, Pre-1.7.2 was 0.25. This disables itself if Foggy Weather is enabled.
+			#Range: 0.0 ~ 1.0
+			"Fog start ratio" = 0.4
+			#Changes fog ratio when raining. Vanilla is 1. This disables itself if Foggy Weather is enabled.
+			#Range: -1.7976931348623157E308 ~ 1.0
+			"Fog start ratio on rain" = -0.2
+
 	#World border changes
 	[Client."World Border"]
 		#Multiplies the world border transparency by this value

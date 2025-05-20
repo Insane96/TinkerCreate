@@ -986,14 +986,6 @@
         "isSelected": true
       },
       {
-        "path": "crash-reports",
-        "isSelected": false
-      },
-      {
-        "path": "crash-reports\\crash-2025-05-18_11.53.51-client.txt",
-        "isSelected": false
-      },
-      {
         "path": "datapacks",
         "isSelected": false
       },
@@ -1762,6 +1754,30 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-18-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-18-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-18-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-20-3.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\latest.log",
         "isSelected": false
       },
@@ -1819,6 +1835,10 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_abandoned_temple_skeleton_armored_1_496ef0a3e5.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_aviary_aviary_part_13_0d47188f34.nbt",
         "isSelected": false
       },
       {
@@ -1934,6 +1954,10 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_base_1_bf1fe6d05f.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_base_2_fef74d5a67.nbt",
         "isSelected": false
       },
@@ -1950,7 +1974,47 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_middle_0_d9aa0b9cab.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_middle_1_fe672689b2.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_middle_2_b4e6d6f8ad.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_middle_3_baeffdbe67.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_spawner_0_b96961558d.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_spawner_1_ab9d22b463.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_spawner_2_9d4e9f0575.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_top_0_f130053121.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_top_3_87585b478e.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_ceryneian_hind_ceryneian_hind_part_1_8d1e717f7f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_coliseum_coliseum_part_0_325a5da046.nbt",
         "isSelected": false
       },
       {
@@ -1998,7 +2062,187 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_0_518eebfc10.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_1_22622258a0.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_2_9c20facf5f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_3_a8629669a7.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_4_00b15b61cb.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_5_cb0e865d37.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_6_c2f9f63449.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_base_part_7_5793b73408.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_cave_spider_0_4ae215d5d8.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_cave_spider_1_efc7bfed6e.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_inner_part_0_f61befc009.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_inner_top_0_313cd9bf8c.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_layout_part_0_top_ccf05f1f2e.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_layout_part_1_middle_e4b60f0c9f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_layout_part_2_middle_0442ca43c0.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_layout_part_3_base_c86bdb1447.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_level_0_232ccad824.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_level_1_23ec0a4fe9.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_level_2_55756d13c4.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_0_d344bab9e6.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_1_4b62a75836.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_2_b8c1c6e7b6.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_3_b448c5b8e5.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_4_7e923bb402.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_5_0b31fb4ef4.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_6_8f4728883e.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_main_part_7_33e72c9737.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_0_e2071ae10a.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_1_a2ff5e94f2.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_2_0d0cad0b22.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_3_6d85c5a168.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_4_3b28802fe8.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_5_0ebd67684e.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_6_5faa7d64cd.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_7_6a545c14b0.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_room_8_53f0454106.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_skeleton_0_3ed23ffd32.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_0_53bb3b38d7.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_1_59567d363b.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_2_efd73b5093.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_3_b8b791b815.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_4_5c942ddbc9.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_5_f77f6a9472.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_6_535e912bc0.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_top_part_7_ce63643d29.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_infested_temple_infested_temple_wither_skeleton_0_1b7c3d820c.nbt",
         "isSelected": false
       },
       {
@@ -2015,6 +2259,10 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_jungle_tree_house_jungle_tree_house_skeleton_0_3713743dd5.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_keep_kayra_keep_kayra_main_0_adaf93d65b.nbt",
         "isSelected": false
       },
       {
@@ -2038,7 +2286,79 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_iron_golem_normal_0_ea3049e475.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_bridges_deco_0_cc460655f3.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_bridge_0_f95e3e1fb7.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_bridge_crossing_11287f4480.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_bridge_terminator_26c9d00c32.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_corridors_deco_0_84c1c480b6.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_corridors_deco_1_0a840ff64a.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_corridors_deco_3_4b39f4bc6b.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_corridor_0_c8f71d1dda.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_corridor_crossing_3813f1a2eb.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_corridor_terminator_a5275b92a2.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_deco_empty_5eca31e651.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_room_0_3e9ef2e548.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_room_1_54f4162981.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_room_2_37563f2941.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_room_3_stairs_a15c1f69f2.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_start_6cb69eaf62.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_monastery_top_0_c5c2d7fdd8.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_monastery_villager_normal_0_d2ae134ac6.nbt",
         "isSelected": false
       },
       {
@@ -2047,6 +2367,14 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_bottom_3_3ac376c9a2.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_mines_mushroom_mines_part_0_1497612195.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_mines_mushroom_mines_part_1_1b76022040.nbt",
         "isSelected": false
       },
       {
@@ -2134,7 +2462,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\buildersconstruct-1.3.1.jar",
+        "path": "mods\\buildersconstruct-1.3.2.jar",
         "isSelected": true
       },
       {
@@ -2270,7 +2598,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\InsaneSurvivalOverhaul-4.12.2.jar",
+        "path": "mods\\InsaneSurvivalOverhaul-4.12.3.jar",
         "isSelected": true
       },
       {
@@ -2326,7 +2654,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\modernfix-forge-5.22.0+mc1.20.1.jar",
+        "path": "mods\\modernfix-forge-5.23.0+mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -2414,7 +2742,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Stamina-1.1.3.jar",
+        "path": "mods\\Stamina-1.2.0.jar",
         "isSelected": true
       },
       {
@@ -2547,6 +2875,330 @@
       },
       {
         "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\advancements\\9a8b1833-adba-418a-bde6-07c0e8572120.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\blueprint_storage.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\iguanatweaksreborn_weather.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\mfix_strongholds.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\random_sequences.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\sandstorms.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\scoreboard.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\seasons.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\sandstorms.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\seasons.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\sandstorms.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\seasons.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\9a8b1833-adba-418a-bde6-07c0e8572120.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\9a8b1833-adba-418a-bde6-07c0e8572120.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\create-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\forge-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\jei-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\mantle-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\pehkui-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\timecontrol-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\stats\\9a8b1833-adba-418a-bde6-07c0e8572120.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\session.lock",
         "isSelected": false
       },
       {
@@ -5727,6 +6379,10 @@
       },
       {
         "path": "screenshots\\2025-05-08_08.46.05.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2025-05-18_21.22.37.png",
         "isSelected": false
       },
       {
