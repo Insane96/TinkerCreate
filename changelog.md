@@ -1,8 +1,7 @@
 ## TODO
-* vigour modifier
-* battlesign block amount
+* No hunger fluids
 
-## Upcoming
+## 3.4.5
 * Breaking quartz no longer angers zombified piglins
 * Fox hounds no longer have an exaggerated attack speed
 
