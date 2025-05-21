@@ -11,6 +11,7 @@
         "minecraft:fox",
         "minecraft:rabbit",
         "minecraft:ravager",
-        "minecraft:iron_golem"
+        "minecraft:iron_golem",
+        "quark:foxhound"
     ]
 }
