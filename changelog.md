@@ -1,5 +1,10 @@
 ## TODO
 * vigour modifier
+* foxhound attack speed nerf
+* battlesign block amount
+
+## Upcoming
+* Breaking quartz no longer angers zombified piglins
 
 ## 3.4.4
 * Increased arrows damage
