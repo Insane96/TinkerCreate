@@ -2,7 +2,21 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/31.214.205.134&amp;49099" />
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/HC" />
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/New World" />
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/New Worldasdadasd" />
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/PORTO DIO" />
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/VVVVVVVacca" />
+      <excludeFolder url="file://$MODULE_DIR$/config/inventoryprofilesnext/senshi" />
+      <excludeFolder url="file://$MODULE_DIR$/downloads" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/modernfix" />
+      <excludeFolder url="file://$MODULE_DIR$/saves" />
+      <excludeFolder url="file://$MODULE_DIR$/screenshots" />
+      <excludeFolder url="file://$MODULE_DIR$/shaderpacks" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
