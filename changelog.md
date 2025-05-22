@@ -2,7 +2,9 @@
 
 ## Upcoming
 * Added diagonal fences and walls
-* Lowered miner zombies chance
+* Added Big Brain
+  * Jumping mobs, animals taking shelter when rain or night and husks now borrow in sand to pick up players and burrow them
+* Heavily lowered miner zombies chance
 
 ## 3.4.5
 * Breaking quartz no longer angers zombified piglins
