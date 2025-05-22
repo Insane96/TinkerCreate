@@ -1,6 +1,6 @@
 ## TODO
 
-## 3.4.6
+## 3.5.0
 * Added diagonal fences and walls
 * Added Big Brain
   * Jumping mobs, animals taking shelter when rain or night and husks now borrow in sand to pick up players and burrow them
