@@ -38,4 +38,7 @@
 		#How much health (each level) of the tasty modifier heals
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 		"Tasty Health Regen" = 0.25
+		#How much health per hunger point is restored when drinking food (e.g. stews with sipping)
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		"Restore Hunger to Health Ratio" = 1.0
 
