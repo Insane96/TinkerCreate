@@ -1,10 +1,8 @@
 ## TODO
-* No hunger fluids
-* bouncy should prevent wall damage
-* grass growth
 
 ## Upcoming
 * Added diagonal fences and walls
+* Lowered miner zombies chance
 
 ## 3.4.5
 * Breaking quartz no longer angers zombified piglins
