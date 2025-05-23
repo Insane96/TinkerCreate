@@ -1348,7 +1348,7 @@
 
 [mobs]
 	Crabs = true
-	Forgotten = true
+	Forgotten = false
 	Foxhound = true
 	Shiba = true
 	Stonelings = true

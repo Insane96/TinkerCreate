@@ -12,6 +12,7 @@
         "minecraft:rabbit",
         "minecraft:ravager",
         "minecraft:iron_golem",
-        "quark:foxhound"
+        "quark:foxhound",
+        "quark:forgotten"
     ]
 }
