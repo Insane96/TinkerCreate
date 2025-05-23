@@ -1,5 +1,9 @@
 ## TODO
 
+## Upcoming
+* Added too fast, preventing players from getting stuck when launched with slinging abilities
+* Disabled Quark's Forgotten
+
 ## 3.5.0
 * Added diagonal fences and walls
 * Added Big Brain
