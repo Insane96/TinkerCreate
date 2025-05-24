@@ -1,6 +1,6 @@
 ## TODO
 
-## Upcoming
+## 3.5.1
 * Added too fast, preventing players from getting stuck when launched with slinging abilities
 * Disabled Quark's Forgotten
 * Disabled Jumping mobs

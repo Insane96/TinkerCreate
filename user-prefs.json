@@ -2626,7 +2626,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\InsaneSurvivalOverhaul-4.12.5.jar",
+        "path": "mods\\InsaneSurvivalOverhaul-4.12.6.jar",
         "isSelected": true
       },
       {
@@ -2770,7 +2770,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Stamina-1.2.1.jar",
+        "path": "mods\\Stamina-1.2.2.jar",
         "isSelected": true
       },
       {
@@ -2807,6 +2807,10 @@
       },
       {
         "path": "mods\\ToastControl-1.20.1-8.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\toofast-1.20-0.4.3.5.jar",
         "isSelected": true
       },
       {
