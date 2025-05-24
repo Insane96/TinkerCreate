@@ -12,7 +12,7 @@
 	"Fence Gate Opening Blacklist" = ["minecraft:husk", "minecraft:zombie", "minecraft:vindicator", "minecraft:drowned"]
 	"Enable new bow ai?" = false
 	"Mobs that don't have the new bow ai" = []
-	"Enable jumping ai" = true
+	"Enable jumping ai" = false
 	"List additional mobs that can also utilize jumping" = ["guardvillagers:guard"]
 	"Mobs that don't have the jumping ai" = ["minecraft:villager"]
 

@@ -3,6 +3,8 @@
 ## Upcoming
 * Added too fast, preventing players from getting stuck when launched with slinging abilities
 * Disabled Quark's Forgotten
+* Disabled Jumping mobs
+  * They randomly jumped even without a target
 
 ## 3.5.0
 * Added diagonal fences and walls
