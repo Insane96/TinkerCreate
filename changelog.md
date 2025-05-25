@@ -1,6 +1,6 @@
 ## TODO
 
-## Upcoming
+## 3.6.0
 * Added Forgery (Fabrication)
   * Many fixes and improvements
 * Added Pretty Rain

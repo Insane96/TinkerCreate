@@ -174,6 +174,50 @@
         "isSelected": true
       },
       {
+        "path": "config\\forgery",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\block_logo.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\block_logo.png",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\classic_block_drops.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\dimensional_tools.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\features.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\fscript.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\gear_components.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\item_despawn.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\taggable_players.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgery\\yeet_recipes.ini",
+        "isSelected": true
+      },
+      {
         "path": "config\\ichunutil",
         "isSelected": true
       },
@@ -895,6 +939,10 @@
       },
       {
         "path": "config\\ponder-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\prettyrain.json5",
         "isSelected": true
       },
       {
@@ -1794,6 +1842,26 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-05-22-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-25-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-25-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-25-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-25-4.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\latest.log",
         "isSelected": false
       },
@@ -2026,7 +2094,23 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_top_5_149ee8c3ee.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_bathhouse_bathhouse_top_6_fc412bc441.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_ceryneian_hind_ceryneian_hind_part_0_e8aed9b5ab.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_ceryneian_hind_ceryneian_hind_part_1_8d1e717f7f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_ceryneian_hind_ceryneian_hind_part_2_37ec30cf99.nbt",
         "isSelected": false
       },
       {
@@ -2055,6 +2139,10 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_illager_corsair_illager_corsair_part_0_0ffa0ef9ae.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_illager_corsair_illager_corsair_part_1_9ef801b145.nbt",
         "isSelected": false
       },
       {
@@ -2378,11 +2466,55 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_bottom_0_66c7942fe4.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_bottom_1_f4f52708cd.nbt",
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_bottom_2_6d894f474b.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_bottom_3_3ac376c9a2.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_piglin_0_9cc06412e7.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_piglin_1_4b0d122034.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_piglin_2_0b6bd83133.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_roots_0_962578fc77.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_top_0_e8b079de93.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_top_1_7b21fdffa7.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_top_2_21e83b1170.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_top_3_dc7ad5f772.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_house_mushroom_house_top_4_5b88508f03.nbt",
         "isSelected": false
       },
       {
@@ -2411,6 +2543,10 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_thornborn_towers_thornborn_towers_part_0_main_bd7c55b1bb.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_typhon_typhon_part_1_b7db42b337.nbt",
         "isSelected": false
       },
       {
@@ -2578,6 +2714,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\forgery-3.6.1+1.20.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\formations-1.0.3-forge-mc1.20.2.jar",
         "isSelected": true
       },
@@ -2694,7 +2834,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\nohunger-1.1.3.jar",
+        "path": "mods\\nohunger-1.1.4.jar",
         "isSelected": true
       },
       {
@@ -2738,6 +2878,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\Pretty Rain-1.20.1-Forge-1.1.3.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\Prism-1.20.1-forge-1.0.5.jar",
         "isSelected": true
       },
@@ -2778,7 +2922,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\stonezone-1.20-2.8.4.jar",
+        "path": "mods\\stonezone-1.20-2.8.5.jar",
         "isSelected": true
       },
       {
@@ -2902,7 +3046,7 @@
         "isSelected": false
       },
       {
-        "path": "resourcepacks\\VanillaTweaks_r453661_MC1.20.x.zip",
+        "path": "resourcepacks\\VanillaTweaks_r654776_MC1.20.x.zip",
         "isSelected": true
       },
       {
@@ -2942,7 +3086,15 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\data\\idcounts.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\data\\iguanatweaksreborn_weather.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\map_0.dat",
         "isSelected": false
       },
       {
@@ -3054,11 +3206,31 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\entities\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-2.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-2.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-3.1.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\entities\\r.-3.2.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\entities\\r.-3.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-4.1.mca",
         "isSelected": false
       },
       {
@@ -3079,6 +3251,22 @@
       },
       {
         "path": "saves\\New World\\entities\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\forgery",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\forgery\\features.ini",
         "isSelected": false
       },
       {
@@ -3118,11 +3306,31 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\poi\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-2.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-2.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-3.1.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\poi\\r.-3.2.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\poi\\r.-3.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-4.1.mca",
         "isSelected": false
       },
       {
@@ -3142,6 +3350,18 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\poi\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region",
         "isSelected": false
       },
@@ -3154,6 +3374,14 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\region\\r.-1.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.-4.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region\\r.-1.0.mca",
         "isSelected": false
       },
@@ -3162,11 +3390,31 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\region\\r.-1.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.4.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region\\r.-2.-1.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\region\\r.-2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-2.-4.mca",
         "isSelected": false
       },
       {
@@ -3186,11 +3434,23 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\region\\r.-2.4.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region\\r.-3.-1.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\region\\r.-3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-3.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-3.-4.mca",
         "isSelected": false
       },
       {
@@ -3210,6 +3470,30 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\region\\r.-3.4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-4.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-4.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-4.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-4.-4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-4.0.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region\\r.-4.1.mca",
         "isSelected": false
       },
@@ -3222,11 +3506,23 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\region\\r.-4.4.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region\\r.0.-1.mca",
         "isSelected": false
       },
       {
         "path": "saves\\New World\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.-4.mca",
         "isSelected": false
       },
       {
@@ -3238,7 +3534,31 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World\\region\\r.0.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.4.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\New World\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.-4.mca",
         "isSelected": false
       },
       {
@@ -3247,6 +3567,126 @@
       },
       {
         "path": "saves\\New World\\region\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.1.4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.-4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.2.4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.-4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.3.4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.-3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.-4.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.3.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.4.4.mca",
         "isSelected": false
       },
       {
