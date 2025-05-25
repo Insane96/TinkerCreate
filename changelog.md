@@ -3,8 +3,11 @@
 ## Upcoming
 * Added Forgery (Fabrication)
   * Many fixes and improvements
+* Added Pretty Rain
+  * Precipitations are much cooler
 * Slowed down husks
 * Slightly slowed down mobs attack speed in hard
+* Fixed some keybinds
 
 ## 3.5.1
 * Added too fast, preventing players from getting stuck when launched with slinging abilities

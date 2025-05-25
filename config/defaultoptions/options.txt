@@ -23,8 +23,8 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.25
-screenEffectScale:1.0
-fovEffectScale:1.0
+screenEffectScale:0.5017605633802817
+fovEffectScale:0.25353352509422733
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","mod_resources","survivalreimaginedresourcepack","file/VanillaTweaks_r453661_MC1.20.x.zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","survivalreimaginedresourcepack","file/VanillaTweaks_r654776_MC1.20.x.zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","Forgery","Forgery grayscale"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -72,7 +72,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
@@ -85,9 +85,9 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:0.5027601911013575
-soundCategory_music:0.0
+soundCategory_music:0.7588028169014085
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.5070422535211268
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
