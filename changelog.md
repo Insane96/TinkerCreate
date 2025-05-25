@@ -1,5 +1,8 @@
 ## TODO
 
+## Upcoming
+* Slowed down husks
+
 ## 3.5.1
 * Added too fast, preventing players from getting stuck when launched with slinging abilities
 * Disabled Quark's Forgotten
