@@ -2,6 +2,7 @@
 
 ## Upcoming
 * Slowed down husks
+* Slightly slowed down mobs attack speed in hard
 
 ## 3.5.1
 * Added too fast, preventing players from getting stuck when launched with slinging abilities

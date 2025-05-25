@@ -518,11 +518,11 @@
 			#Multiplies the attack speed of monsters by this value. E.g. 0.6 means that mobs attack 40% slower than the player with the same equipment
 			[Mobs."Melee Attacking"."Attack Speed".Multiplier]
 				#Range: 0.0 ~ 4.0
-				"Easy/Peaceful" = 0.4
+				"Easy/Peaceful" = 0.5
 				#Range: 0.0 ~ 4.0
 				Normal = 0.5
 				#Range: 0.0 ~ 4.0
-				Hard = 0.6
+				Hard = 0.5
 
 	#Let mobs use ender pearls. Either put ender pearls in main or off hand and when far enough from the target they will throw it. Only mobs in the enhancedai:can_be_pearler entity type tag can be pearler.
 	[Mobs."Pearler Mobs"]
