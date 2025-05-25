@@ -1,6 +1,8 @@
 ## TODO
 
 ## Upcoming
+* Added Forgery (Fabrication)
+  * Many fixes and improvements
 * Slowed down husks
 * Slightly slowed down mobs attack speed in hard
 
