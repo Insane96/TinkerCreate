@@ -1,5 +1,12 @@
 ## TODO
 
+* Cookling pot
+* rice seeds
+* farmer's delight
+
+## Upcoming
+* Removed Big Brain
+
 ## 3.6.1
 * Mod updates
 
