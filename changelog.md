@@ -1,5 +1,8 @@
 ## TODO
 
+## 3.6.1
+* Mod updates
+
 ## 3.6.0
 * Added Forgery (Fabrication)
   * Many fixes and improvements
