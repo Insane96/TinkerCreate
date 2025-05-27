@@ -1,11 +1,10 @@
 ## TODO
 
-* Cookling pot
-* rice seeds
-* farmer's delight hard crops
-
-## Upcoming
+## 3.6.2
 * Removed Big Brain
+  * Nice idea, horrible implementation
+  * Reverted husk speed nerf
+* Fixed cooking pot recipe not working
 
 ## 3.6.1
 * Mod updates
