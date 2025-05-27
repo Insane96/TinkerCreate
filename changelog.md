@@ -2,7 +2,7 @@
 
 * Cookling pot
 * rice seeds
-* farmer's delight
+* farmer's delight hard crops
 
 ## Upcoming
 * Removed Big Brain
