@@ -12,3 +12,7 @@
 	#The fix for Jump Movement Factor is applied only when the player is slowed down. If false, the player will jump really farther when going faster.
 	"Fix jump movement factor slowdown only" = true
 
+[Base]
+	#If true, the game time will not advance if no players are online.
+	"Prevent time ticking if no players online" = true
+
