@@ -14,5 +14,5 @@
 
 [Base]
 	#If true, the game time will not advance if no players are online.
-	"Prevent time ticking if no players online" = true
+	"Prevent time ticking if no players online" = false
 
