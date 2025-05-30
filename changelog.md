@@ -1,5 +1,10 @@
 ## TODO
 
+* nerf pumpkin slice
+
+## Upcoming
+* Lowered blazes fireballs shot
+
 ## 3.6.3
 * Mod updates
 

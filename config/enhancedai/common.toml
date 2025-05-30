@@ -847,23 +847,23 @@
 		#How many fireballs blazes shoots. Vanilla is 3
 		[Blazes."Blaze Attack"."Fireballs shot"]
 			#Range: 1.0 ~ 64.0
-			Minimum = 3.0
+			Minimum = 2.0
 			#Range: 1.0 ~ 64.0
-			Maximum = 8.0
+			Maximum = 6.0
 
 		#Time (in ticks) taken by the blaze to recharge (before setting himself on fire). Vanilla is 100
 		[Blazes."Blaze Attack"."Recharge time"]
 			#Range: 1.0 ~ 600.0
 			Minimum = 60.0
 			#Range: 1.0 ~ 600.0
-			Maximum = 100.0
+			Maximum = 120.0
 
 		#Time (in ticks) taken by the blaze to charge (while on fire before shooting fireballs). Vanilla is 60
 		[Blazes."Blaze Attack"."Charge time"]
 			#Range: 1.0 ~ 600.0
 			Minimum = 30.0
 			#Range: 1.0 ~ 600.0
-			Maximum = 60.0
+			Maximum = 80.0
 
 		#How many fireballs are shot per shot. Vanilla is 1
 		[Blazes."Blaze Attack"."Fireballs Per Shot"]
@@ -877,7 +877,7 @@
 			#Range: -1.0 ~ 32.0
 			Minimum = 2.0
 			#Range: -1.0 ~ 32.0
-			Maximum = 8.0
+			Maximum = 14.0
 
 [Animals]
 	#Makes animals not tempted by food. Use the entity type tag enhancedai:can_ignore_food_temptation to change animals.
