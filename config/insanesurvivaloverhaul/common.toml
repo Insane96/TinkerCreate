@@ -449,6 +449,10 @@
 		"Despawn time" = 3600
 		#If true, graves will be placed even if the player has no items/xp.
 		"Summon grave even with no items" = true
+		#If true, players can crouch right-click to take items from graves. Experience still requires breaking the grave.
+		"Crouch take items" = false
+		#If true, only players that generated the grave can crouch right-click to take items from graves.
+		"Crouch take items only owner" = false
 
 [Movement]
 	#Players's slides down climbable blocks faster and stands still when opening an interface. This is disabled if quark is enabled

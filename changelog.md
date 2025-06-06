@@ -2,6 +2,8 @@
 
 ## Upcoming
 * Toned down blazes attack
+* Mod updates
+* Removed no time tick when no player online data pack, it's now included in InsaneLib
 
 ## 3.6.3
 * Mod updates
