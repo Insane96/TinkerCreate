@@ -506,6 +506,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\inventoryprofilesnext\\Painful World Border",
+        "isSelected": true
+      },
+      {
         "path": "config\\inventoryprofilesnext\\PORTO DIO",
         "isSelected": true
       },
@@ -838,11 +842,7 @@
         "isSelected": true
       },
       {
-        "path": "config\\global_data_and_resourcepacks.toml",
-        "isSelected": true
-      },
-      {
-        "path": "config\\insanelib-common.toml",
+        "path": "config\\global_packs.toml",
         "isSelected": true
       },
       {
@@ -1046,6 +1046,574 @@
         "isSelected": false
       },
       {
+        "path": "datapacks\\mobs_buffs",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\enhancedai",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\enhancedai\\tags",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\enhancedai\\tags\\entity_types",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\enhancedai\\tags\\entity_types\\can_be_miner.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\enhancedai\\tags\\entity_types\\change_wolves.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\bees.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\phantoms.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\sea_creatures.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\skeletons.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\spiders.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\vexes.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\zombies.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves\\skeleton_wolf.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves\\wolves.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves\\zombie_wolf.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\attack_speed_nerf.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\drowneds.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\follow_range_bonus.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\fuck_vexes.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\fuck_vindicators.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\iron_golems.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\movement_speed_bonus.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\overworld_skeletons.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\overworld_zombies_equipment.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\small_animals.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\speed_nerf.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\spiders.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\zombies.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\attack_speed_nerf.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\follow_range_bonus.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\horses.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\hostiles.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\hostiles_no_zombies.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\hostiles_with_equip.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\mobs_no_bosses.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\mobs_no_bosses_no_zombies.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\movement_speed_bonus.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\overworld_skeletons.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\overworld_zombies.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\passive.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\sea_creatures.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\skeletons.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\small_animals.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\speed_nerf.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\wolves.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\zombies.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\mobs_buffs\\pack.mcmeta",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\beetroot.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\beetroot.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\fern.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\grass.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\large_fern.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\large_fern.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\tall_grass.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\tall_grass.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\create\\recipes\\milling\\wheat.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\dungeons_arise",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\dungeons_arise\\worldgen",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set\\major_structures.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set\\major_structures.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\farmersdelight",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\farmersdelight\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\farmersdelight\\recipes\\cooking_pot.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\farmersdelight\\tags",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\farmersdelight\\tags\\items",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\farmersdelight\\tags\\items\\straw_harvesters.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables\\blocks",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables\\blocks\\injection",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables\\blocks\\injection\\cleansed_lapis.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\recipes\\altimeter.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\iguanatweaksexpanded\\recipes\\crate.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\armored.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\armored.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\base.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\base.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\summoner.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\ultimate.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\progressivebosses",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\armored.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\base.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\summoner.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\ultimate.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\advancements",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\advancements\\get_all_corundum.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\black_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\blue_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\brown_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\cyan_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\gray_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\green_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\light_blue_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\light_gray_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\lime_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\magenta_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\orange_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\pink_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\purple_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\red_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\white_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\building\\crafting\\yellow_stool.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\oddities",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\oddities\\crafting",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\oddities\\crafting\\backpack_no_hide.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\quark\\recipes\\oddities\\crafting\\pipe.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\tinkers_things",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\tinkers_things\\tinkering",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\tinkers_things\\tinkering\\modifiers",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\tinkers_things\\tinkering\\modifiers\\range.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\tinkers_things\\tinkering\\modifiers\\range.json~",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\woodworks",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\woodworks\\recipes",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\data\\woodworks\\recipes\\sawmill.json",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\tinker_create\\pack.mcmeta",
+        "isSelected": true
+      },
+      {
         "path": "defaultconfigs",
         "isSelected": true
       },
@@ -1062,639 +1630,11 @@
         "isSelected": true
       },
       {
+        "path": "global_packs\\optional_data",
+        "isSelected": false
+      },
+      {
         "path": "global_packs\\required_data",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\enhancedai",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\enhancedai\\tags",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\enhancedai\\tags\\entity_types",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\enhancedai\\tags\\entity_types\\can_be_miner.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\enhancedai\\tags\\entity_types\\change_wolves.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\functions",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\functions\\heal_living.mcfunction",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\bees.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\phantoms.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\sea_creatures.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\skeletons.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\spiders.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\vexes.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\pehkui\\zombies.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves\\skeleton_wolf.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves\\wolves.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\wolves\\zombie_wolf.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\attack_speed_nerf.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\drowneds.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\follow_range_bonus.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\fuck_vexes.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\fuck_vindicators.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\iron_golems.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\mobs.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\movement_speed_bonus.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\overworld_skeletons.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\overworld_zombies_equipment.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\small_animals.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\speed_nerf.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\spiders.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\mobs_properties_randomness\\mobs\\zombies.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\attack_speed_nerf.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\follow_range_bonus.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\horses.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\hostiles.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\hostiles_no_zombies.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\hostiles_with_equip.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\mobs_no_bosses.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\mobs_no_bosses_no_zombies.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\movement_speed_bonus.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\overworld_skeletons.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\overworld_zombies.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\passive.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\sea_creatures.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\skeletons.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\small_animals.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\speed_nerf.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\wolves.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\data\\iguanatweaksreborn\\tags\\entity_types\\zombies.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\mobs_buffs\\pack.mcmeta",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\minecraft",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\minecraft\\tags",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\minecraft\\tags\\functions",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\minecraft\\tags\\functions\\load.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined\\functions",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined\\functions\\check_new_players.mcfunction",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined\\functions\\check_players_online.mcfunction",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined\\functions\\check_players_online.mcfunction~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined\\functions\\load.mcfunction",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\data\\survivalreimagined\\functions\\new_player_actions.mcfunction",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\time_stop_no_player_online\\pack.mcmeta",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\beetroot.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\beetroot.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\fern.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\grass.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\large_fern.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\large_fern.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\tall_grass.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\tall_grass.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\create\\recipes\\milling\\wheat.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\dungeons_arise",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\dungeons_arise\\worldgen",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set\\major_structures.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\dungeons_arise\\worldgen\\structure_set\\major_structures.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\recipes",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\recipes\\cooking_pot.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\tags",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\tags\\items",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\farmersdelight\\tags\\items\\straw_harvesters.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables\\blocks",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables\\blocks\\injection",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\loot_tables\\blocks\\injection\\cleansed_lapis.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\recipes",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\recipes\\altimeter.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\iguanatweaksexpanded\\recipes\\crate.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\armored.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\armored.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\base.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\base.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\summoner.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\loot_tables\\entities\\wither\\ultimate.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\progressivebosses",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\armored.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\base.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\summoner.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\progressivebosses\\progressivebosses\\wither\\ultimate.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\advancements",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\advancements\\get_all_corundum.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\black_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\blue_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\brown_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\cyan_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\gray_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\green_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\light_blue_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\light_gray_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\lime_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\magenta_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\orange_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\pink_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\purple_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\red_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\white_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\building\\crafting\\yellow_stool.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\oddities",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\oddities\\crafting",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\oddities\\crafting\\backpack_no_hide.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\quark\\recipes\\oddities\\crafting\\pipe.json",
-        "isSelected": true
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\tinkers_things",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\tinkers_things\\tinkering",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\tinkers_things\\tinkering\\modifiers",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\tinkers_things\\tinkering\\modifiers\\range.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\tinkers_things\\tinkering\\modifiers\\range.json~",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\woodworks",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\woodworks\\recipes",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\data\\woodworks\\recipes\\sawmill.json",
-        "isSelected": false
-      },
-      {
-        "path": "global_packs\\required_data\\tinker_create\\pack.mcmeta",
         "isSelected": true
       },
       {
@@ -1871,6 +1811,18 @@
       },
       {
         "path": "logs\\2025-05-27-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-05-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-06-02-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-06-06-1.log.gz",
         "isSelected": false
       },
       {
@@ -2159,6 +2111,10 @@
       },
       {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_illager_fort_illager_fort_part_1_caea454d4d.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_illager_fort_illager_fort_part_3_05fc48174c.nbt",
         "isSelected": false
       },
       {
@@ -2538,6 +2494,10 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_mines_mushroom_mines_part_3_3fe6500343.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_mushroom_village_mushroom_village_house_big_0_97ca3567cb.nbt",
         "isSelected": false
       },
@@ -2558,7 +2518,15 @@
         "isSelected": false
       },
       {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_typhon_typhon_part_0_ef5ad598b7.nbt",
+        "isSelected": false
+      },
+      {
         "path": "modernfix\\structureCacheV1\\dungeons_arise_typhon_typhon_part_1_b7db42b337.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\dungeons_arise_typhon_typhon_part_2_3a84eed6b6.nbt",
         "isSelected": false
       },
       {
@@ -2698,7 +2666,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\enhancedai-2.6.3.jar",
+        "path": "mods\\enhancedai-2.6.4.jar",
         "isSelected": true
       },
       {
@@ -2710,11 +2678,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\everycomp-1.20-2.8.6-forge.jar",
+        "path": "mods\\everycomp-1.20-2.8.7-forge.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\FarmersDelight-1.20.1-1.2.7.jar",
+        "path": "mods\\FarmersDelight-1.20.1-1.2.8.jar",
         "isSelected": true
       },
       {
@@ -2750,7 +2718,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\global_packs-forge-1.19.4-1.16.2_forge.jar",
+        "path": "mods\\globalpacks-forge-1.20.1-19.3.4.jar",
         "isSelected": true
       },
       {
@@ -2766,19 +2734,19 @@
         "isSelected": true
       },
       {
+        "path": "mods\\iguanatweaksreborn-4.12.9-alpha.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\incubation-1.20.1-4.0.4.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\insanelib-1.20.4.jar",
+        "path": "mods\\insanelib-1.21.2.jar",
         "isSelected": true
       },
       {
         "path": "mods\\InsaneSurvivalExtra-1.23.10.jar",
-        "isSelected": true
-      },
-      {
-        "path": "mods\\InsaneSurvivalOverhaul-4.12.7.jar",
         "isSelected": true
       },
       {
@@ -2794,7 +2762,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\jei-1.20.1-forge-15.20.0.110.jar",
+        "path": "mods\\jei-1.20.1-forge-15.20.0.112.jar",
         "isSelected": true
       },
       {
@@ -2818,7 +2786,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Mantle-1.20.1-1.11.44.jar",
+        "path": "mods\\Mantle-1.20.1-1.11.55.jar",
         "isSelected": true
       },
       {
@@ -2834,11 +2802,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\modernfix-forge-5.23.0+mc1.20.1.jar",
+        "path": "mods\\modernfix-forge-5.23.1+mc1.20.1.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\moonlight-1.20-2.14.1-forge.jar",
+        "path": "mods\\moonlight-1.20-2.14.4-forge.jar",
         "isSelected": true
       },
       {
@@ -2846,7 +2814,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\nohunger-1.1.4.jar",
+        "path": "mods\\nohunger-1.1.5.jar",
         "isSelected": true
       },
       {
@@ -2934,7 +2902,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\stonezone-1.20-2.8.7.jar",
+        "path": "mods\\stonezone-1.20-2.8.8.jar",
         "isSelected": true
       },
       {
@@ -2942,11 +2910,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\TCIntegrations-1.20.1-2.0.25.8.jar",
+        "path": "mods\\TCIntegrations-1.20.1-2.0.25.9.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\TConstruct-1.20.1-3.9.2.37.jar",
+        "path": "mods\\TConstruct-1.20.1-3.10.0.67.jar",
         "isSelected": true
       },
       {
@@ -2958,7 +2926,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Tinker-Things-1.20.1-1.3.1.jar",
+        "path": "mods\\Tinker-Things-1.20.1-1.3.2.jar",
         "isSelected": true
       },
       {
@@ -3030,7 +2998,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\YungsCaveBiomes-1.20.1-Forge-2.0.4.jar",
+        "path": "mods\\YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
         "isSelected": true
       },
       {
@@ -3751,6 +3719,294 @@
       },
       {
         "path": "saves\\New World\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\advancements\\9a8b1833-adba-418a-bde6-07c0e8572120.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\blueprint_storage.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\iguanatweaksreborn_weather.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\mfix_strongholds.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\random_sequences.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\sandstorms.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\data\\seasons.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1\\data\\sandstorms.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM-1\\data\\seasons.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1\\data\\sandstorms.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\DIM1\\data\\seasons.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\forgery",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\forgery\\features.ini",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\playerdata\\9a8b1833-adba-418a-bde6-07c0e8572120.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\playerdata\\9a8b1833-adba-418a-bde6-07c0e8572120.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig\\create-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig\\forge-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig\\jei-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig\\mantle-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig\\pehkui-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\serverconfig\\timecontrol-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\stats\\9a8b1833-adba-418a-bde6-07c0e8572120.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Painful World Border\\session.lock",
         "isSelected": false
       },
       {
