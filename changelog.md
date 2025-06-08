@@ -1,10 +1,5 @@
 ## TODO
 
-* global packs
-* change target recipe
-* fix sky fog with normal fog
-* too much rice
-
 ## 3.6.4
 * Toned down blazes attack
 * Mod updates
