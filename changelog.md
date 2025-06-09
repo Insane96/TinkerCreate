@@ -1,5 +1,8 @@
 ## TODO
 
+## 3.6.5
+* Mod updates
+
 ## 3.6.4
 * Toned down blazes attack
 * Mod updates
