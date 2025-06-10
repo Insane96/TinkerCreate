@@ -1,0 +1,4 @@
+schedule function tinkercreate:check_players_online 1s
+schedule function tinkercreate:check_new_players 1s
+
+scoreboard objectives add Global dummy
